@@ -1,0 +1,1788 @@
+,department_name,department_ID,category_name,category_ID,aisle_name,aisle_ID,page_ID,shelve,shleve_ID,web_ID
+0,Baby & toddler,10,Accessories,10,All accessories,10,1018673,,,
+1,Baby & toddler,10,Accessories,10,Bath & changing,11,1018674,,,
+2,Baby & toddler,10,Accessories,10,Bottles & feeding,12,1018675,,,
+3,Baby & toddler,10,Accessories,10,Breast feeding,13,1018676,,,
+4,Baby & toddler,10,Accessories,10,Mum & mum to be,14,1018677,,,
+5,Baby & toddler,10,Accessories,10,Special offers,15,1018678,,,
+6,Baby & toddler,10,Accessories,10,Sterilisers & sterilising fluid,16,1018679,,,
+7,Baby & toddler,10,Accessories,10,Teethers & soothers,17,1018680,,,
+8,Baby & toddler,10,Accessories,10,Travel & home safety,18,1018681,,,
+9,Baby & toddler,10,Baby meals,12,All baby meals,10,1018684,,,
+10,Baby & toddler,10,Baby meals,12,Cereals,11,1018685,,,
+11,Baby & toddler,10,Baby meals,12,Desserts & fruit pots,12,1018686,,,
+12,Baby & toddler,10,Baby meals,12,Jars,13,1018687,,,
+13,Baby & toddler,10,Baby meals,12,New,14,1034050,,,
+14,Baby & toddler,10,Baby meals,12,Pouches,15,1018688,,,
+15,Baby & toddler,10,Baby meals,12,Special offers,16,1018689,,,
+16,Baby & toddler,10,Baby meals,12,Stage 1 (4 months & up),17,1018690,,,
+17,Baby & toddler,10,Baby meals,12,Stage 2 (7 months & up),18,1018691,,,
+18,Baby & toddler,10,Baby meals,12,Stage 3 (10 months & up),19,1018692,,,
+19,Baby & toddler,10,Baby meals,12,Stage 4 (12 months & up),20,1018693,,,
+20,Baby & toddler,10,Baby meals,12,Tray meals & home cooking,21,1018694,,,
+21,Baby & toddler,10,Baby milk & drinks,13,All baby milk & drinks,10,1018696,,,
+22,Baby & toddler,10,Baby milk & drinks,13,Drinks,11,1018698,,,
+23,Baby & toddler,10,Baby milk & drinks,13,First milk (0 to 12 months),12,1018699,,,
+24,Baby & toddler,10,Baby milk & drinks,13,Follow on milk (6 month plus),13,1018700,,,
+25,Baby & toddler,10,Baby milk & drinks,13,Growing up milk (12 month plus),14,1018701,,,
+26,Baby & toddler,10,Baby milk & drinks,13,Special offers,15,1018702,,,
+27,Baby & toddler,10,Baby milk & drinks,13,Specialist milks,16,1018703,,,
+28,Baby & toddler,10,Big packs,14,All big packs,10,1018705,,,
+29,Baby & toddler,10,Big packs,14,Baby milk,11,1018706,,,
+30,Baby & toddler,10,Big packs,14,Nappies,12,1018707,,,
+31,Baby & toddler,10,Big packs,14,Snacks,13,1018708,,,
+32,Baby & toddler,10,Big packs,14,Toiletries,14,1018709,,,
+33,Baby & toddler,10,Big packs,14,Wipes,15,1018710,,,
+34,Baby & toddler,10,Mum & mum to be,16,All mum & mum to be,10,1034052,,,
+35,Baby & toddler,10,Mum & mum to be,16,Breast feeding,11,1018714,,,
+36,Baby & toddler,10,Mum & mum to be,16,Healthcare,12,1018715,,,
+37,Baby & toddler,10,Mum & mum to be,16,Hospital Bag,13,1018716,,,
+38,Baby & toddler,10,Mum & mum to be,16,Pregnancy & ovulation tests,14,1018718,,,
+39,Baby & toddler,10,Mum & mum to be,16,Special offers,15,1018719,,,
+40,Baby & toddler,10,Mum & mum to be,16,Toiletries,16,1018720,,,
+41,Baby & toddler,10,Nappies & pants,17,All nappies,10,1018722,,,
+42,Baby & toddler,10,Nappies & pants,17,Bedwetting & DryNites,11,1018723,,,
+43,Baby & toddler,10,Nappies & pants,17,Bigger packs,12,1018724,,,
+44,Baby & toddler,10,Nappies & pants,17,Eco & reusable nappies,13,1018725,,,
+45,Baby & toddler,10,Nappies & pants,17,Nappy bags & changing acc's,14,1018727,,,
+46,Baby & toddler,10,Nappies & pants,17,Nappy pants,15,1018728,,,
+47,Baby & toddler,10,Nappies & pants,17,Potty training & pull-ups,16,1018730,,,
+48,Baby & toddler,10,Nappies & pants,17,Size 1 & 2 (2-5kg),17,1018731,,,
+49,Baby & toddler,10,Nappies & pants,17,Size 3 (4-9kg),18,1018732,,,
+50,Baby & toddler,10,Nappies & pants,17,Size 4 & 4+ (7-16kg),19,1018733,,,
+51,Baby & toddler,10,Nappies & pants,17,Size 5 & 5+ (11-22kg),20,1018734,,,
+52,Baby & toddler,10,Nappies & pants,17,"Size 6, 6+, 7 & 8 (13kg+)",21,1018735,,,
+53,Baby & toddler,10,Nappies & pants,17,Special offers,22,1034053,,,
+54,Baby & toddler,10,Nappies & pants,17,Swimming pants,23,1018736,,,
+55,Baby & toddler,10,Snacks & rusks,19,3 years +,10,1018738,,,
+56,Baby & toddler,10,Snacks & rusks,19,All snacks & rusks,11,1018739,,,
+57,Baby & toddler,10,Snacks & rusks,19,New,12,1034054,,,
+58,Baby & toddler,10,Snacks & rusks,19,Over 12 months,13,1018740,,,
+59,Baby & toddler,10,Snacks & rusks,19,Special offers,14,1018741,,,
+60,Baby & toddler,10,Snacks & rusks,19,Under 12 months,15,1018742,,,
+61,Baby & toddler,10,Toiletries & healthcare,21,Accessories & bath toys,10,1018745,,,
+62,Baby & toddler,10,Toiletries & healthcare,21,All toiletries,11,1018746,,,
+63,Baby & toddler,10,Toiletries & healthcare,21,Baby & toddler dental care,12,1018747,,,
+64,Baby & toddler,10,Toiletries & healthcare,21,Baby bath time,13,1018748,,,
+65,Baby & toddler,10,Toiletries & healthcare,21,"Baby oil, creams & lotions",14,1018749,,,
+66,Baby & toddler,10,Toiletries & healthcare,21,Baby shampoo & conditioner,15,1018750,,,
+67,Baby & toddler,10,Toiletries & healthcare,21,Cotton wool & buds,16,1018752,,,
+68,Baby & toddler,10,Toiletries & healthcare,21,Kids toiletries,17,1018754,,,
+69,Baby & toddler,10,Toiletries & healthcare,21,Medicine & vitamins,18,1018755,,,
+70,Baby & toddler,10,Toiletries & healthcare,21,Mum & mum to be,19,1018756,,,
+71,Baby & toddler,10,Toiletries & healthcare,21,Nappy rash,20,1018757,,,
+72,Baby & toddler,10,Toiletries & healthcare,21,Natural & sensitive toiletries,21,1018758,,,
+73,Baby & toddler,10,Toiletries & healthcare,21,Special offers,22,1018759,,,
+74,Baby & toddler,10,Wipes,23,All baby wipes,10,1018762,,,
+75,Baby & toddler,10,Wipes,23,Bigger packs,11,1018763,,,
+76,Baby & toddler,10,Wipes,23,Sensitive & fragranced,12,1018768,,,
+77,Bakery,11,Bread,12,All bread,10,1018774,,,
+78,Bakery,11,Bread,12,Baguettes,11,1018775,,,
+79,Bakery,11,Bread,12,Bread from our bakery,12,1018776,,,
+80,Bakery,11,Bread,12,Half & half bread,13,1018777,,,
+81,Bakery,11,Bread,12,Part baked bread,14,1018778,,,
+82,Bakery,11,Bread,12,Seeded & grain bread,15,1018779,,,
+83,Bakery,11,Bread,12,Small loaves,16,1018780,,,
+84,Bakery,11,Bread,12,Soda & rye bread,17,1018781,,,
+85,Bakery,11,Bread,12,Special offers,18,1018782,,,
+86,Bakery,11,Bread,12,White bread,19,1018783,,,
+87,Bakery,11,Bread,12,Wholemeal & brown bread,20,1018784,,,
+88,Bakery,11,Bread rolls & bagels,13,All rolls & bagels,10,1018786,,,
+89,Bakery,11,Bread rolls & bagels,13,Bagels,11,1018787,,,
+90,Bakery,11,Bread rolls & bagels,13,Bread rolls,12,1018788,,,
+91,Bakery,11,Bread rolls & bagels,13,Ciabatta rolls,13,1018789,,,
+92,Bakery,11,Bread rolls & bagels,13,Special offers,14,1018790,,,
+93,Bakery,11,Cakes & tarts,14,All cakes & tarts,10,1018792,,,
+94,Bakery,11,Cakes & tarts,14,Cream cakes,11,1018793,,,
+95,Bakery,11,Cakes & tarts,14,Mini rolls & cake slices,12,1018794,,,
+96,Bakery,11,Cakes & tarts,14,New,13,1018795,,,
+97,Bakery,11,Cakes & tarts,14,Pies & tarts,14,1018796,,,
+98,Bakery,11,Cakes & tarts,14,Sharing bites,15,1018797,,,
+99,Bakery,11,Cakes & tarts,14,Special offers,16,1018798,,,
+100,Bakery,11,Cakes & tarts,14,Tea time cakes,17,1018799,,,
+101,Bakery,11,Croissants & breakfast bakery,15,All breakfast bakery,10,1018801,,,
+102,Bakery,11,Croissants & breakfast bakery,15,Bagels,11,1018802,,,
+103,Bakery,11,Croissants & breakfast bakery,15,Breakfast muffins,12,1018803,,,
+104,Bakery,11,Croissants & breakfast bakery,15,Brioche buns & bread,13,1018804,,,
+105,Bakery,11,Croissants & breakfast bakery,15,Croissants,14,1018805,,,
+106,Bakery,11,Croissants & breakfast bakery,15,Crumpets,15,1018806,,,
+107,Bakery,11,Croissants & breakfast bakery,15,Fruit loaves,16,1018807,,,
+108,Bakery,11,Croissants & breakfast bakery,15,Pancakes & crepes,17,1018808,,,
+109,Bakery,11,Croissants & breakfast bakery,15,Pastries,18,1018809,,,
+110,Bakery,11,Croissants & breakfast bakery,15,Special offers,19,1018810,,,
+111,Bakery,11,Croissants & breakfast bakery,15,Waffles,20,1018811,,,
+112,Bakery,11,"Doughnuts, cookies & muffins",17,"All doughnuts, cookies & muffins",10,1018815,,,
+113,Bakery,11,"Doughnuts, cookies & muffins",17,Cookies,11,1018816,,,
+114,Bakery,11,"Doughnuts, cookies & muffins",17,Doughnuts,12,1018817,,,
+115,Bakery,11,"Doughnuts, cookies & muffins",17,Muffins,13,1018818,,,
+116,Bakery,11,"Doughnuts, cookies & muffins",17,Special offers,14,1018819,,,
+117,Bakery,11,Freefrom bread & cakes,18,All Freefrom bread & cakes,10,1018821,,,
+118,Bakery,11,Freefrom bread & cakes,18,"Freefrom bread, rolls & wraps",11,1018822,,,
+119,Bakery,11,Freefrom bread & cakes,18,Freefrom cakes & sweet treats,12,1018823,,,
+120,Bakery,11,Freefrom bread & cakes,18,Special offers,13,1018824,,,
+121,Bakery,11,From our in store bakery,19,All in store bakery,10,1018826,,,
+122,Bakery,11,From our in store bakery,19,Baguettes & batons,11,1018827,,,
+123,Bakery,11,From our in store bakery,19,Bread,12,1018828,,,
+124,Bakery,11,From our in store bakery,19,Cakes & slices,13,1018829,,,
+125,Bakery,11,From our in store bakery,19,Doughnuts & cookies,14,1018830,,,
+126,Bakery,11,From our in store bakery,19,Pastries & pies,15,1018831,,,
+127,Bakery,11,From our in store bakery,19,Rolls & bagels,16,1018832,,,
+128,Bakery,11,From our in store bakery,19,Special offers,17,1018833,,,
+129,Bakery,11,Naans & meal sides,20,All naans & meals sides,10,1018835,,,
+130,Bakery,11,Naans & meal sides,20,Flat breads,11,1018836,,,
+131,Bakery,11,Naans & meal sides,20,Focaccia,12,1018837,,,
+132,Bakery,11,Naans & meal sides,20,Garlic breads,13,1018838,,,
+133,Bakery,11,Naans & meal sides,20,Naan breads,14,1018839,,,
+134,Bakery,11,Naans & meal sides,20,Special offers,15,1018840,,,
+135,Bakery,11,"Scones, fruited & buns",22,"All scones, fruited & buns",10,1018843,,,
+136,Bakery,11,"Scones, fruited & buns",22,Fruit loaves,11,1018844,,,
+137,Bakery,11,"Scones, fruited & buns",22,Hot cross buns,12,1018845,,,
+138,Bakery,11,"Scones, fruited & buns",22,Iced buns,13,1018846,,,
+139,Bakery,11,"Scones, fruited & buns",22,Scones & fruited buns,14,1018847,,,
+140,Bakery,11,"Scones, fruited & buns",22,Special offers,15,1018848,,,
+141,Bakery,11,"Scones, fruited & buns",22,Teacakes,16,1018849,,,
+142,Bakery,11,"Wraps, thins & pittas",24,"All wraps, thins & pittas",10,1018853,,,
+143,Bakery,11,"Wraps, thins & pittas",24,Pitta bread,11,1018854,,,
+144,Bakery,11,"Wraps, thins & pittas",24,Sandwich thins,12,1018855,,,
+145,Bakery,11,"Wraps, thins & pittas",24,Special offers,13,1018856,,,
+146,Bakery,11,"Wraps, thins & pittas",24,Wraps,14,1018857,,,
+147,Beauty & cosmetics,12,Bath & body,10,Bath & shower,11,1018867,Bar soap,10.0,1018860.0
+148,Beauty & cosmetics,12,Bath & body,10,Bath & shower,11,1018867,Bath,11.0,1018861.0
+149,Beauty & cosmetics,12,Bath & body,10,Bath & shower,11,1018867,Bath accessories,12.0,1018862.0
+150,Beauty & cosmetics,12,Bath & body,10,Bath & shower,11,1018867,Handwash,13.0,1018863.0
+151,Beauty & cosmetics,12,Bath & body,10,Bath & shower,11,1018867,Men's,14.0,1018864.0
+152,Beauty & cosmetics,12,Bath & body,10,Bath & shower,11,1018867,Salts,15.0,1018865.0
+153,Beauty & cosmetics,12,Bath & body,10,Bath & shower,11,1018867,Shower,16.0,1018866.0
+154,Beauty & cosmetics,12,Bath & body,10,Body moisturiser,12,1018875,Body butter,10.0,1018868.0
+155,Beauty & cosmetics,12,Bath & body,10,Body moisturiser,12,1018875,Body cream,11.0,1018869.0
+156,Beauty & cosmetics,12,Bath & body,10,Body moisturiser,12,1018875,Body lotion,12.0,1018870.0
+157,Beauty & cosmetics,12,Bath & body,10,Body moisturiser,12,1018875,Body moisturiser,13.0,1018871.0
+158,Beauty & cosmetics,12,Bath & body,10,Body moisturiser,12,1018875,Gift sets,14.0,1018872.0
+159,Beauty & cosmetics,12,Bath & body,10,Body moisturiser,12,1018875,Gradual self tan,15.0,1018873.0
+160,Beauty & cosmetics,12,Bath & body,10,Body moisturiser,12,1018875,Oils,16.0,1018874.0
+161,Beauty & cosmetics,12,Bath & body,10,Exfoliate & scrub,12,1018876,,,
+162,Beauty & cosmetics,12,Bath & body,10,Female grooming,13,1018877,,,
+163,Beauty & cosmetics,12,Bath & body,10,"Hand, nail & foot",15,1018881,Foot care,10.0,1018878.0
+164,Beauty & cosmetics,12,Bath & body,10,"Hand, nail & foot",15,1018881,Hand cream,11.0,1018879.0
+165,Beauty & cosmetics,12,Bath & body,10,"Hand, nail & foot",15,1018881,Hand wash,12.0,1018880.0
+166,Beauty & cosmetics,12,Bath & body,10,Natural,15,1018882,,,
+167,Beauty & cosmetics,12,Bath & body,10,Sleep & relaxation,16,1018883,,,
+168,Beauty & cosmetics,12,Beauty gifts,11,For her,10,1018886,,,
+169,Beauty & cosmetics,12,Beauty gifts,11,For him,11,1018887,,,
+170,Beauty & cosmetics,12,Beauty tools & accessories,12,Make up brushes & tools,10,1018889,,,
+171,Beauty & cosmetics,12,Beauty tools & accessories,12,Nail tools & accessories,11,1018890,,,
+172,Beauty & cosmetics,12,Facial skincare,14,Cleansers & toners,11,1018900,Cleanser,10.0,1018893.0
+173,Beauty & cosmetics,12,Facial skincare,14,Cleansers & toners,11,1018900,Cotton wool & wipes,11.0,1018894.0
+174,Beauty & cosmetics,12,Facial skincare,14,Cleansers & toners,11,1018900,Eye make up remover,12.0,1018895.0
+175,Beauty & cosmetics,12,Facial skincare,14,Cleansers & toners,11,1018900,Face scrub,13.0,1018896.0
+176,Beauty & cosmetics,12,Facial skincare,14,Cleansers & toners,11,1018900,Face wash,14.0,1018897.0
+177,Beauty & cosmetics,12,Facial skincare,14,Cleansers & toners,11,1018900,Micellar,15.0,1018898.0
+178,Beauty & cosmetics,12,Facial skincare,14,Cleansers & toners,11,1018900,Toner,16.0,1018899.0
+179,Beauty & cosmetics,12,Facial skincare,14,Eye care,11,1018901,,,
+180,Beauty & cosmetics,12,Facial skincare,14,Lip care,12,1018902,,,
+181,Beauty & cosmetics,12,Facial skincare,14,Masks,13,1018903,,,
+182,Beauty & cosmetics,12,Facial skincare,14,Medicated skincare,14,1018904,,,
+183,Beauty & cosmetics,12,Facial skincare,14,Men's skincare,15,1018905,,,
+184,Beauty & cosmetics,12,Facial skincare,14,Moisturisers,17,1018911,All,10.0,1018906.0
+185,Beauty & cosmetics,12,Facial skincare,14,Moisturisers,17,1018911,Day,11.0,1018907.0
+186,Beauty & cosmetics,12,Facial skincare,14,Moisturisers,17,1018911,Night,12.0,1018908.0
+187,Beauty & cosmetics,12,Facial skincare,14,Moisturisers,17,1018911,Oil,13.0,1018909.0
+188,Beauty & cosmetics,12,Facial skincare,14,Moisturisers,17,1018911,Serum,14.0,1018910.0
+189,Beauty & cosmetics,12,Facial skincare,14,Natural,17,1018912,,,
+190,Beauty & cosmetics,12,Fragrances,15,For her,10,1018914,,,
+191,Beauty & cosmetics,12,Fragrances,15,For him,11,1018915,,,
+192,Beauty & cosmetics,12,Hair care,16,Conditioner,10,1018917,,,
+193,Beauty & cosmetics,12,Hair care,16,Electrical hair care,11,1018918,,,
+194,Beauty & cosmetics,12,Hair care,16,Hair colour,13,1018925,Auburn,10.0,1018919.0
+195,Beauty & cosmetics,12,Hair care,16,Hair colour,13,1018925,Blonde,11.0,1018920.0
+196,Beauty & cosmetics,12,Hair care,16,Hair colour,13,1018925,Brunette,12.0,1018921.0
+197,Beauty & cosmetics,12,Hair care,16,Hair colour,13,1018925,Dark,13.0,1018923.0
+198,Beauty & cosmetics,12,Hair care,16,Hair colour,13,1018925,Expressive,14.0,1018924.0
+199,Beauty & cosmetics,12,Hair care,16,Hair tools,13,1018926,,,
+200,Beauty & cosmetics,12,Hair care,16,Hair treatments,14,1018927,,,
+201,Beauty & cosmetics,12,Hair care,16,Men's,15,1018928,,,
+202,Beauty & cosmetics,12,Hair care,16,Natural,17,1018933,Conditioner,10.0,1018929.0
+203,Beauty & cosmetics,12,Hair care,16,Natural,17,1018933,Hair treatments,11.0,1018930.0
+204,Beauty & cosmetics,12,Hair care,16,Natural,17,1018933,Shampoo,12.0,1018931.0
+205,Beauty & cosmetics,12,Hair care,16,Natural,17,1018933,Styling,13.0,1018932.0
+206,Beauty & cosmetics,12,Hair care,16,Shampoo,17,1018934,,,
+207,Beauty & cosmetics,12,Hair care,16,Styling,18,1018935,,,
+208,Beauty & cosmetics,12,Make up,17,All,10,1018937,,,
+209,Beauty & cosmetics,12,Make up,17,Eyebrows,11,1018938,,,
+210,Beauty & cosmetics,12,Make up,17,Eyes,13,1018943,All eye makeup,10.0,1034042.0
+211,Beauty & cosmetics,12,Make up,17,Eyes,13,1018943,Eye liner,11.0,1018939.0
+212,Beauty & cosmetics,12,Make up,17,Eyes,13,1018943,Eye shadow,12.0,1018940.0
+213,Beauty & cosmetics,12,Make up,17,Eyes,13,1018943,False lashes,13.0,1018941.0
+214,Beauty & cosmetics,12,Make up,17,Eyes,13,1018943,Mascara,14.0,1018942.0
+215,Beauty & cosmetics,12,Make up,17,Face,14,1018953,All face,10.0,1034043.0
+216,Beauty & cosmetics,12,Make up,17,Face,14,1018953,Blusher,11.0,1018944.0
+217,Beauty & cosmetics,12,Make up,17,Face,14,1018953,Bronzer,12.0,1018945.0
+218,Beauty & cosmetics,12,Make up,17,Face,14,1018953,Concealer,13.0,1018946.0
+219,Beauty & cosmetics,12,Make up,17,Face,14,1018953,Contouring & highlighting,14.0,1018947.0
+220,Beauty & cosmetics,12,Make up,17,Face,14,1018953,Fixing & setting sprays,15.0,1018948.0
+221,Beauty & cosmetics,12,Make up,17,Face,14,1018953,Foundation,16.0,1018949.0
+222,Beauty & cosmetics,12,Make up,17,Face,14,1018953,Make up brushes & sponges,17.0,1018950.0
+223,Beauty & cosmetics,12,Make up,17,Face,14,1018953,Powder,18.0,1018951.0
+224,Beauty & cosmetics,12,Make up,17,Face,14,1018953,Primer,19.0,1018952.0
+225,Beauty & cosmetics,12,Make up,17,Lips,15,1034134,All lips,10.0,1034044.0
+226,Beauty & cosmetics,12,Make up,17,Lips,15,1034134,Lip gloss,11.0,1018954.0
+227,Beauty & cosmetics,12,Make up,17,Lips,15,1034134,Lip liner,12.0,1018955.0
+228,Beauty & cosmetics,12,Make up,17,Lips,15,1034134,Lipstick,13.0,1018956.0
+229,Beauty & cosmetics,12,Make up,17,Make up tools & accessories,16,1018962,False lashes,10.0,1018957.0
+230,Beauty & cosmetics,12,Make up,17,Make up tools & accessories,16,1018962,Make up brushes & sponges,11.0,1018958.0
+231,Beauty & cosmetics,12,Make up,17,Make up tools & accessories,16,1018962,Make up tools,12.0,1018959.0
+232,Beauty & cosmetics,12,Make up,17,Make up tools & accessories,16,1018962,Nail accessories,13.0,1018961.0
+233,Beauty & cosmetics,12,Make up,17,Make up tools & accessories,16,1018962,Nail & foot tools,14.0,1018960.0
+234,Beauty & cosmetics,12,Make up,17,Nails,17,1034135,All nails,10.0,1034045.0
+235,Beauty & cosmetics,12,Make up,17,Nails,17,1034135,Nail accessories,11.0,1018964.0
+236,Beauty & cosmetics,12,Make up,17,Nails,17,1034135,Nail & foot tools,12.0,1018963.0
+237,Beauty & cosmetics,12,Make up,17,Nails,17,1034135,Nail polish,13.0,1018965.0
+238,Beauty & cosmetics,12,Make up,17,New,17,1018966,,,
+239,Beauty & cosmetics,12,Make up,17,Shop by brand,18,1018975,,,
+240,Beauty & cosmetics,12,Make up,17,Special offers,19,1018976,,,
+241,Beauty & cosmetics,12,Men's grooming,18,Electrical grooming,10,1018978,,,
+242,Beauty & cosmetics,12,Men's grooming,18,Men's haircare,11,1018979,,,
+243,Beauty & cosmetics,12,Men's grooming,18,Men's skincare,12,1018980,,,
+244,Beauty & cosmetics,12,Men's grooming,18,Shaving & beard care,14,1018987,Aftershave,10.0,1018981.0
+245,Beauty & cosmetics,12,Men's grooming,18,Shaving & beard care,14,1018987,Beard grooming,11.0,1018982.0
+246,Beauty & cosmetics,12,Men's grooming,18,Shaving & beard care,14,1018987,Blades,12.0,1018983.0
+247,Beauty & cosmetics,12,Men's grooming,18,Shaving & beard care,14,1018987,Disposable razors,13.0,1018984.0
+248,Beauty & cosmetics,12,Men's grooming,18,Shaving & beard care,14,1018987,Razors,14.0,1018985.0
+249,Beauty & cosmetics,12,Men's grooming,18,Shaving & beard care,14,1018987,Shaving,15.0,1018986.0
+250,Beauty & cosmetics,12,Men's grooming,18,Shop by brand,14,1018989,,,
+251,Beauty & cosmetics,12,Our beauty edit,20,Special offers,10,1018995,,,
+252,Beauty & cosmetics,12,Sun & tan,23,After sun,10,1019008,,,
+253,Beauty & cosmetics,12,Sun & tan,23,Fake tan,11,1019009,,,
+254,Beauty & cosmetics,12,Sun & tan,23,Sun cream,12,1019010,,,
+255,Christmas,13,Chocolate & sweets,11,Selection boxes & gifts,10,1043317,,,
+256,Christmas,13,Chocolate & sweets,11,Sharing tubs & bags,11,1043318,,,
+257,Christmas,13,Chocolate & sweets,11,Stocking fillers,12,1043319,,,
+258,Christmas,13,Christmas day,12,Breakfast & brunch,10,1043332,,,
+259,Christmas,13,Christmas day,12,Christmas dinner,12,1043325,Gravies & sauces,10.0,1043329.0
+260,Christmas,13,Christmas day,12,Christmas dinner,12,1043325,Mains,11.0,1043326.0
+261,Christmas,13,Christmas day,12,Christmas dinner,12,1043325,Stuffing & trimmings,12.0,1043328.0
+262,Christmas,13,Christmas day,12,Christmas dinner,12,1043325,Vegetables,13.0,1043327.0
+263,Christmas,13,Christmas day,12,Desserts & fresh cream,12,1043330,,,
+264,Christmas,13,Christmas day,12,Drinks,14,1043371,Beer & cider,10.0,1043374.0
+265,Christmas,13,Christmas day,12,Drinks,14,1043371,Bigger packs,11.0,1043376.0
+266,Christmas,13,Christmas day,12,Drinks,14,1043371,Low & no alcohol,12.0,1043377.0
+267,Christmas,13,Christmas day,12,Drinks,14,1043371,Soft drinks & mixers,13.0,1043375.0
+268,Christmas,13,Christmas day,12,Drinks,14,1043371,Special offers,14.0,1043378.0
+269,Christmas,13,Christmas day,12,Drinks,14,1043371,Spirits & liqueurs,15.0,1043372.0
+270,Christmas,13,Christmas day,12,Drinks,14,1043371,Wine & sparkling,16.0,1043373.0
+271,Christmas,13,Christmas day,12,Roasting tins & cookware,14,1043335,,,
+272,Christmas,13,Christmas day,12,Snacks & nuts,15,1043331,,,
+273,Christmas,13,Christmas day,12,Special offers,16,1043334,,,
+274,Christmas,13,Christmas day,12,Starters,17,1043333,,,
+275,Christmas,13,Crackers & decorations,13,Christmas crackers,10,1043351,,,
+276,Christmas,13,Crackers & decorations,13,Decorations,11,1043353,,,
+277,Christmas,13,Crackers & decorations,13,Household,12,1043354,,,
+278,Christmas,13,Crackers & decorations,13,Lights,13,1043352,,,
+279,Christmas,13,Drinks,14,Alcohol gift sets,10,1043362,,,
+280,Christmas,13,Drinks,14,Beer & cider,11,1043359,,,
+281,Christmas,13,Drinks,14,Bigger packs,12,1043360,,,
+282,Christmas,13,Drinks,14,Low & no alcohol,13,1043364,,,
+283,Christmas,13,Drinks,14,Soft drinks & mixers,14,1043361,,,
+284,Christmas,13,Drinks,14,Special offers,15,1043363,,,
+285,Christmas,13,Drinks,14,Spirits & liqueurs,16,1043357,,,
+286,Christmas,13,Drinks,14,Wine & sparkling,17,1043358,,,
+287,Christmas,13,Festive bakery & biscuits,15,Bakery,10,1043337,,,
+288,Christmas,13,Festive bakery & biscuits,15,Biscuits,11,1043338,,,
+289,Christmas,13,Festive bakery & biscuits,15,Home baking,12,1043339,,,
+290,Christmas,13,Gifting,16,Beauty & grooming gifts,10,1043342,,,
+291,Christmas,13,Gifting,16,"Cards, wrap & tags",11,1043348,,,
+292,Christmas,13,Gifting,16,Food & drink gifts,12,1043345,,,
+293,Christmas,13,Gifting,16,Pet gifts,13,1043346,,,
+294,Christmas,13,Gifting,16,Secret Santa & novelty gifts,14,1043347,,,
+295,Christmas,13,Gifting,16,Toys & games,15,1043343,,,
+296,Christmas,13,Party food & snacks,18,"Crisps, snacks & nuts",10,1043323,,,
+297,Christmas,13,Party food & snacks,18,Savoury party food,11,1043322,,,
+298,Christmas,13,Party food & snacks,18,Sweet party food,12,1043324,,,
+299,Christmas,13,Turkey & festive centrepieces,20,"Gammon, fish & meat",10,1043369,,,
+300,Christmas,13,Turkey & festive centrepieces,20,Turkey,12,1043366,Fresh turkey & poultry,10.0,1043368.0
+301,Christmas,13,Turkey & festive centrepieces,20,Turkey,12,1043366,Frozen turkey,11.0,1043367.0
+302,Christmas,13,Turkey & festive centrepieces,20,Vegetarian & plant based,12,1043370,,,
+303,"Dairy, eggs & chilled",14,"Cooked meats, olives & dips",10,Coleslaw & salads,10,1019013,,,
+304,"Dairy, eggs & chilled",14,"Cooked meats, olives & dips",10,Cooked meats,11,1019014,,,
+305,"Dairy, eggs & chilled",14,"Cooked meats, olives & dips",10,"Houmous, guacamole & flavoured dips",12,1019015,,,
+306,"Dairy, eggs & chilled",14,"Cooked meats, olives & dips",10,New,13,1019016,,,
+307,"Dairy, eggs & chilled",14,"Cooked meats, olives & dips",10,"Olives, antipasti, tapas & mezze",14,1019017,,,
+308,"Dairy, eggs & chilled",14,"Cooked meats, olives & dips",10,Pate,15,1019018,,,
+309,"Dairy, eggs & chilled",14,"Cooked meats, olives & dips",10,Sandwich fillers,16,1019019,,,
+310,"Dairy, eggs & chilled",14,"Cooked meats, olives & dips",10,Special offers,17,1019020,,,
+311,"Dairy, eggs & chilled",14,Dairy & eggs,12,"Butter, spreads & pastry",11,1019034,All butter & spreads,10.0,1019024.0
+312,"Dairy, eggs & chilled",14,Dairy & eggs,12,"Butter, spreads & pastry",11,1019034,Block butter,11.0,1019025.0
+313,"Dairy, eggs & chilled",14,Dairy & eggs,12,"Butter, spreads & pastry",11,1019034,Buttery taste & sunflower spreads,12.0,1019026.0
+314,"Dairy, eggs & chilled",14,Dairy & eggs,12,"Butter, spreads & pastry",11,1019034,Cholesterol lowering spreads,13.0,1019027.0
+315,"Dairy, eggs & chilled",14,Dairy & eggs,12,"Butter, spreads & pastry",11,1019034,Cooking & baking butter & spreads,14.0,1019028.0
+316,"Dairy, eggs & chilled",14,Dairy & eggs,12,"Butter, spreads & pastry",11,1019034,Dairy free spreads,15.0,1019029.0
+317,"Dairy, eggs & chilled",14,Dairy & eggs,12,"Butter, spreads & pastry",11,1019034,Olive spreads,16.0,1019030.0
+318,"Dairy, eggs & chilled",14,Dairy & eggs,12,"Butter, spreads & pastry",11,1019034,Pastry,17.0,1019031.0
+319,"Dairy, eggs & chilled",14,Dairy & eggs,12,"Butter, spreads & pastry",11,1019034,Spreadable butter,18.0,1019032.0
+320,"Dairy, eggs & chilled",14,Dairy & eggs,12,Cheese,12,1019044,All cheese,10.0,1019035.0
+321,"Dairy, eggs & chilled",14,Dairy & eggs,12,Cheese,12,1019044,Cheddar & British regional cheese,11.0,1019036.0
+322,"Dairy, eggs & chilled",14,Dairy & eggs,12,Cheese,12,1019044,Flavoured cheese,12.0,1019037.0
+323,"Dairy, eggs & chilled",14,Dairy & eggs,12,Cheese,12,1019044,Sliced & grated cheese,13.0,1019039.0
+324,"Dairy, eggs & chilled",14,Dairy & eggs,12,Cheese,12,1019044,Snacking & lunchbox cheese,14.0,1019040.0
+325,"Dairy, eggs & chilled",14,Dairy & eggs,12,Cheese,12,1019044,Soft & cottage cheese,15.0,1019041.0
+326,"Dairy, eggs & chilled",14,Dairy & eggs,12,Cheese,12,1019044,Speciality & continental cheese,16.0,1019043.0
+327,"Dairy, eggs & chilled",14,Dairy & eggs,12,Cream & custard,12,1019045,,,
+328,"Dairy, eggs & chilled",14,Dairy & eggs,12,Dairy free,14,1019053,All dairy free,10.0,1019046.0
+329,"Dairy, eggs & chilled",14,Dairy & eggs,12,Dairy free,14,1019053,Dairy free cheese,11.0,1019048.0
+330,"Dairy, eggs & chilled",14,Dairy & eggs,12,Dairy free,14,1019053,Dairy free desserts,12.0,1019049.0
+331,"Dairy, eggs & chilled",14,Dairy & eggs,12,Dairy free,14,1019053,Dairy free spreads,13.0,1019050.0
+332,"Dairy, eggs & chilled",14,Dairy & eggs,12,Dairy free,14,1019053,Dairy free yogurt,14.0,1019051.0
+333,"Dairy, eggs & chilled",14,Dairy & eggs,12,Dairy free,14,1019053,Lactose free,15.0,1019052.0
+334,"Dairy, eggs & chilled",14,Dairy & eggs,12,Dairy free,14,1019053,Plant based drinks,16.0,1034061.0
+335,"Dairy, eggs & chilled",14,Dairy & eggs,12,Eggs,14,1019054,,,
+336,"Dairy, eggs & chilled",14,Dairy & eggs,12,Milk,16,1019059,Flavoured milk,10.0,1019055.0
+337,"Dairy, eggs & chilled",14,Dairy & eggs,12,Milk,16,1019059,Fresh milk,11.0,1019056.0
+338,"Dairy, eggs & chilled",14,Dairy & eggs,12,Milk,16,1019059,Iced coffee,12.0,1019057.0
+339,"Dairy, eggs & chilled",14,Dairy & eggs,12,Milk,16,1019059,Long life milk,13.0,1019058.0
+340,"Dairy, eggs & chilled",14,Dairy & eggs,12,New,16,1019060,,,
+341,"Dairy, eggs & chilled",14,Dairy & eggs,12,Special offers,17,1019061,,,
+342,"Dairy, eggs & chilled",14,Dairy & eggs,12,Yogurts,19,1019074,All yogurts,10.0,1019062.0
+343,"Dairy, eggs & chilled",14,Dairy & eggs,12,Yogurts,19,1019074,Big pot yogurt,11.0,1019063.0
+344,"Dairy, eggs & chilled",14,Dairy & eggs,12,Yogurts,19,1019074,Fat free & low fat yogurt,12.0,1019064.0
+345,"Dairy, eggs & chilled",14,Dairy & eggs,12,Yogurts,19,1019074,Indulgent yogurt & desserts,13.0,1019065.0
+346,"Dairy, eggs & chilled",14,Dairy & eggs,12,Yogurts,19,1019074,Kids yogurt,14.0,1019066.0
+347,"Dairy, eggs & chilled",14,Dairy & eggs,12,Yogurts,19,1019074,Multipack yogurt,15.0,1019069.0
+348,"Dairy, eggs & chilled",14,Dairy & eggs,12,Yogurts,19,1019074,"Natural, organic & greek yogurt",16.0,1019070.0
+349,"Dairy, eggs & chilled",14,Dairy & eggs,12,Yogurts,19,1019074,Probiotic & active health yogurt,17.0,1019071.0
+350,"Dairy, eggs & chilled",14,Dairy & eggs,12,Yogurts,19,1019074,Single pots & corner yogurt,18.0,1019072.0
+351,"Dairy, eggs & chilled",14,Desserts,13,All desserts & cream,10,1019076,,,
+352,"Dairy, eggs & chilled",14,Desserts,13,Christmas desserts & cream,11,1043969,,,
+353,"Dairy, eggs & chilled",14,Desserts,13,Cream & custard,12,1019077,,,
+354,"Dairy, eggs & chilled",14,Desserts,13,Cream cakes,13,1019078,,,
+355,"Dairy, eggs & chilled",14,Desserts,13,Desserts for one,14,1019079,,,
+356,"Dairy, eggs & chilled",14,Desserts,13,Desserts for two,15,1019080,,,
+357,"Dairy, eggs & chilled",14,Desserts,13,Desserts to share,16,1019081,,,
+358,"Dairy, eggs & chilled",14,Desserts,13,New,17,1019082,,,
+359,"Dairy, eggs & chilled",14,Desserts,13,Special offers,18,1019083,,,
+360,"Dairy, eggs & chilled",14,Fruit juice & drinks,16,All fruit juice & smoothies,10,1019094,,,
+361,"Dairy, eggs & chilled",14,Fruit juice & drinks,16,Apple juice,11,1019095,,,
+362,"Dairy, eggs & chilled",14,Fruit juice & drinks,16,Berries & grape juice,12,1019096,,,
+363,"Dairy, eggs & chilled",14,Fruit juice & drinks,16,Citrus juice,13,1019097,,,
+364,"Dairy, eggs & chilled",14,Fruit juice & drinks,16,Coconut water,14,1019098,,,
+365,"Dairy, eggs & chilled",14,Fruit juice & drinks,16,Juice shots,15,1019099,,,
+366,"Dairy, eggs & chilled",14,Fruit juice & drinks,16,Kids juice,16,1019100,,,
+367,"Dairy, eggs & chilled",14,Fruit juice & drinks,16,New,17,1019101,,,
+368,"Dairy, eggs & chilled",14,Fruit juice & drinks,16,Orange juice,18,1019102,,,
+369,"Dairy, eggs & chilled",14,Fruit juice & drinks,16,Smoothies,19,1019103,,,
+370,"Dairy, eggs & chilled",14,Fruit juice & drinks,16,Special offers,20,1019104,,,
+371,"Dairy, eggs & chilled",14,Fruit juice & drinks,16,Tropical juice,21,1019105,,,
+372,"Dairy, eggs & chilled",14,"Pies, pasties & quiche",18,"All pies, pasties & quiche",10,1019108,,,
+373,"Dairy, eggs & chilled",14,"Pies, pasties & quiche",18,"Freefrom pies, pasties & quiche",11,1019109,,,
+374,"Dairy, eggs & chilled",14,"Pies, pasties & quiche",18,New,12,1019110,,,
+375,"Dairy, eggs & chilled",14,"Pies, pasties & quiche",18,Pies,13,1019111,,,
+376,"Dairy, eggs & chilled",14,"Pies, pasties & quiche",18,Pork pies,14,1019112,,,
+377,"Dairy, eggs & chilled",14,"Pies, pasties & quiche",18,Quiche,15,1019113,,,
+378,"Dairy, eggs & chilled",14,"Pies, pasties & quiche",18,Slices & pasties,16,1019114,,,
+379,"Dairy, eggs & chilled",14,"Pies, pasties & quiche",18,Special offers,17,1019115,,,
+380,"Dairy, eggs & chilled",14,"Pizza, pasta & garlic bread",19,Carb alternatives,10,1019117,,,
+381,"Dairy, eggs & chilled",14,"Pizza, pasta & garlic bread",19,"Garlic bread, doughballs & sides",11,1019118,,,
+382,"Dairy, eggs & chilled",14,"Pizza, pasta & garlic bread",19,Pasta,12,1019119,,,
+383,"Dairy, eggs & chilled",14,"Pizza, pasta & garlic bread",19,Pasta sauce,13,1019120,,,
+384,"Dairy, eggs & chilled",14,"Pizza, pasta & garlic bread",19,Pizza,14,1019121,,,
+385,"Dairy, eggs & chilled",14,"Pizza, pasta & garlic bread",19,Special offers,15,1019122,,,
+386,"Dairy, eggs & chilled",14,Ready meals,20,All ready meals,10,1019124,,,
+387,"Dairy, eggs & chilled",14,Ready meals,20,Healthier choice ready meals,11,1019125,,,
+388,"Dairy, eggs & chilled",14,Ready meals,20,Just Cook & Slow Cooked,12,1019126,,,
+389,"Dairy, eggs & chilled",14,Ready meals,20,Kids ready meals,13,1019127,,,
+390,"Dairy, eggs & chilled",14,Ready meals,20,New,14,1019128,,,
+391,"Dairy, eggs & chilled",14,Ready meals,20,Prepared sides & vegetables,15,1019129,,,
+392,"Dairy, eggs & chilled",14,Ready meals,20,Ready meals by cuisine,17,1019136,British ready meals,10.0,1019130.0
+393,"Dairy, eggs & chilled",14,Ready meals,20,Ready meals by cuisine,17,1019136,Chinese & Asian ready meals,11.0,1019131.0
+394,"Dairy, eggs & chilled",14,Ready meals,20,Ready meals by cuisine,17,1019136,Indian ready meals,12.0,1019132.0
+395,"Dairy, eggs & chilled",14,Ready meals,20,Ready meals by cuisine,17,1019136,Italian ready meals,13.0,1019133.0
+396,"Dairy, eggs & chilled",14,Ready meals,20,Ready meals by cuisine,17,1019136,Mexican & American ready meals,14.0,1019134.0
+397,"Dairy, eggs & chilled",14,Ready meals,20,Ready meals by cuisine,17,1019136,Spanish & Mediterranean ready meals,15.0,1019135.0
+398,"Dairy, eggs & chilled",14,Ready meals,20,Ready meals for one,17,1019137,,,
+399,"Dairy, eggs & chilled",14,Ready meals,20,Ready meals for two or more,18,1019138,,,
+400,"Dairy, eggs & chilled",14,Ready meals,20,Special offers,19,1019139,,,
+401,"Dairy, eggs & chilled",14,Ready meals,20,Vegetarian ready meals,20,1019141,,,
+402,"Dairy, eggs & chilled",14,Sandwiches & food to go,21,"Fruit, snacks & treats",10,1019144,,,
+403,"Dairy, eggs & chilled",14,Sandwiches & food to go,21,New,11,1019146,,,
+404,"Dairy, eggs & chilled",14,Sandwiches & food to go,21,Pasta & salad,12,1019147,,,
+405,"Dairy, eggs & chilled",14,Sandwiches & food to go,21,Sandwich fillers,13,1019148,,,
+406,"Dairy, eggs & chilled",14,Sandwiches & food to go,21,Sandwiches & wraps,14,1019149,,,
+407,"Dairy, eggs & chilled",14,Sandwiches & food to go,21,Special offers,15,1019150,,,
+408,"Dairy, eggs & chilled",14,Sandwiches & food to go,21,Sushi,16,1019151,,,
+409,"Dairy, eggs & chilled",14,Savoury snacks,22,All savoury snacks,10,1019153,,,
+410,"Dairy, eggs & chilled",14,Savoury snacks,22,Cocktail sausages & snacks,11,1019154,,,
+411,"Dairy, eggs & chilled",14,Savoury snacks,22,New,12,1019155,,,
+412,"Dairy, eggs & chilled",14,Savoury snacks,22,"Olives, antipasti, tapas & mezze",13,1019156,,,
+413,"Dairy, eggs & chilled",14,Savoury snacks,22,Pork pies,14,1019157,,,
+414,"Dairy, eggs & chilled",14,Savoury snacks,22,Sausage rolls,15,1019158,,,
+415,"Dairy, eggs & chilled",14,Savoury snacks,22,Scotch eggs,16,1019159,,,
+416,"Dairy, eggs & chilled",14,Savoury snacks,22,Special offers,17,1019160,,,
+417,"Dairy, eggs & chilled",14,"Vegetarian, vegan & dairy free",24,All meat free,10,1019169,,,
+418,"Dairy, eggs & chilled",14,"Vegetarian, vegan & dairy free",24,Dairy free,11,1019170,,,
+419,"Dairy, eggs & chilled",14,"Vegetarian, vegan & dairy free",24,New,12,1019171,,,
+420,"Dairy, eggs & chilled",14,"Vegetarian, vegan & dairy free",24,Special offers,13,1019173,,,
+421,"Dairy, eggs & chilled",14,"Vegetarian, vegan & dairy free",24,Vegan,14,1019174,,,
+422,"Dairy, eggs & chilled",14,"Vegetarian, vegan & dairy free",24,Vegetarian,15,1019175,,,
+423,"Dairy, eggs & chilled",14,"World foods, kosher & halal",25,Afro-Caribbean food,10,1019177,,,
+424,"Dairy, eggs & chilled",14,"World foods, kosher & halal",25,Asian food,11,1019178,,,
+425,"Dairy, eggs & chilled",14,"World foods, kosher & halal",25,Halal,12,1019179,,,
+426,"Dairy, eggs & chilled",14,"World foods, kosher & halal",25,Kosher,13,1019180,,,
+427,"Dairy, eggs & chilled",14,"World foods, kosher & halal",25,Polish food,14,1019181,,,
+428,"Dairy, eggs & chilled",14,"World foods, kosher & halal",25,Special offers,15,1019182,,,
+429,Dietary & world foods,15,Free From,12,Egg free,10,1019187,,,
+430,Dietary & world foods,15,Free From,12,Gluten free,12,1019201,All gluten free,10.0,1019188.0
+431,Dietary & world foods,15,Free From,12,Gluten free,12,1019201,"Biscuits, chocolate & treats",11.0,1019189.0
+432,Dietary & world foods,15,Free From,12,Gluten free,12,1019201,Bread & cakes,12.0,1019190.0
+433,Dietary & world foods,15,Free From,12,Gluten free,12,1019201,Cereal & cereal bars,13.0,1019191.0
+434,Dietary & world foods,15,Free From,12,Gluten free,12,1019201,Cheese & dairy alternatives,14.0,1019192.0
+435,Dietary & world foods,15,Free From,12,Gluten free,12,1019201,Condiments & dressings,15.0,1019193.0
+436,Dietary & world foods,15,Free From,12,Gluten free,12,1019201,Cooking sauces & meal kits,16.0,1019194.0
+437,Dietary & world foods,15,Free From,12,Gluten free,12,1019201,Crisps & savoury snacks,17.0,1019195.0
+438,Dietary & world foods,15,Free From,12,Gluten free,12,1019201,Flour & homebaking,18.0,1019196.0
+439,Dietary & world foods,15,Free From,12,Gluten free,12,1019201,Frozen,19.0,1019197.0
+440,Dietary & world foods,15,Free From,12,Gluten free,12,1019201,Gravy & stuffing,20.0,1019198.0
+441,Dietary & world foods,15,Free From,12,Gluten free,12,1019201,Pasta & noodles,21.0,1019199.0
+442,Dietary & world foods,15,Free From,12,Gluten free,12,1019201,"Pies, pastry & ready meals",22.0,1019200.0
+443,Dietary & world foods,15,Free From,12,Lactose free,12,1019202,,,
+444,Dietary & world foods,15,Free From,12,Milk free,14,1019212,All milk free,10.0,1019203.0
+445,Dietary & world foods,15,Free From,12,Milk free,14,1019212,"Biscuits, chocolate & treats",11.0,1019204.0
+446,Dietary & world foods,15,Free From,12,Milk free,14,1019212,Bread & cakes,12.0,1019205.0
+447,Dietary & world foods,15,Free From,12,Milk free,14,1019212,Cereal & cereal bars,13.0,1019206.0
+448,Dietary & world foods,15,Free From,12,Milk free,14,1019212,Cheese & dairy alternatives,14.0,1019207.0
+449,Dietary & world foods,15,Free From,12,Milk free,14,1019212,Cooking sauces & condiments,15.0,1019208.0
+450,Dietary & world foods,15,Free From,12,Milk free,14,1019212,Flour & homebaking,16.0,1019209.0
+451,Dietary & world foods,15,Free From,12,Milk free,14,1019212,Frozen,17.0,1019210.0
+452,Dietary & world foods,15,Free From,12,Milk free,14,1019212,"Pies, pastry & ready meals",18.0,1019211.0
+453,Dietary & world foods,15,Free From,12,Nut free,14,1019213,,,
+454,Dietary & world foods,15,Free From,12,Soya free,15,1019214,,,
+455,Dietary & world foods,15,Free From,12,Special offers,16,1019215,,,
+456,Dietary & world foods,15,Low & no alcohol,13,All low & no alcohol,10,1019219,,,
+457,Dietary & world foods,15,Low & no alcohol,13,Low alcohol,11,1019220,,,
+458,Dietary & world foods,15,Low & no alcohol,13,No alcohol,12,1019221,,,
+459,Dietary & world foods,15,Low & no alcohol,13,Special offers,13,1019222,,,
+460,Dietary & world foods,15,Organic,14,All organic,10,1019225,,,
+461,Dietary & world foods,15,Organic,14,Dairy,11,1019226,,,
+462,Dietary & world foods,15,Organic,14,Drinks,12,1019227,,,
+463,Dietary & world foods,15,Organic,14,Food cupboard,13,1019228,,,
+464,Dietary & world foods,15,Organic,14,Fruit & veg,14,1019229,,,
+465,Dietary & world foods,15,Organic,14,"Meat, fish & poultry",15,1019230,,,
+466,Dietary & world foods,15,Organic,14,Special offers,16,1019231,,,
+467,Dietary & world foods,15,Sports nutrition,17,All sports nutrition,10,1019235,,,
+468,Dietary & world foods,15,Sports nutrition,17,Protein food & bars,11,1019236,,,
+469,Dietary & world foods,15,Sports nutrition,17,Protein powder,12,1019237,,,
+470,Dietary & world foods,15,Sports nutrition,17,Special offers,13,1019238,,,
+471,Dietary & world foods,15,Sports nutrition,17,Sports drinks,14,1019239,,,
+472,Dietary & world foods,15,Sports nutrition,17,Sports supplements,15,1019240,,,
+473,Dietary & world foods,15,Vegan,19,All vegan,10,1019243,,,
+474,Dietary & world foods,15,Vegan,19,Drink,11,1019244,,,
+475,Dietary & world foods,15,Vegan,19,Food,12,1019245,,,
+476,Dietary & world foods,15,Vegan,19,New,13,1019246,,,
+477,Dietary & world foods,15,Vegan,19,Special offers,14,1019248,,,
+478,Dietary & world foods,15,Vitamins & supplements,21,All vitamins & supplements,10,1019251,,,
+479,Dietary & world foods,15,Vitamins & supplements,21,Baby & children's health,11,1019252,,,
+480,Dietary & world foods,15,Vitamins & supplements,21,Bone & joint care,12,1019253,,,
+481,Dietary & world foods,15,Vitamins & supplements,21,Energy,13,1019254,,,
+482,Dietary & world foods,15,Vitamins & supplements,21,"Heart, brain & eye",14,1019255,,,
+483,Dietary & world foods,15,Vitamins & supplements,21,Immunity & iron,15,1019256,,,
+484,Dietary & world foods,15,Vitamins & supplements,21,Men's health,16,1019257,,,
+485,Dietary & world foods,15,Vitamins & supplements,21,Multi vitamins,17,1019258,,,
+486,Dietary & world foods,15,Vitamins & supplements,21,Pregnancy & conception,18,1019259,,,
+487,Dietary & world foods,15,Vitamins & supplements,21,Sleep & relaxation,19,1019260,,,
+488,Dietary & world foods,15,Vitamins & supplements,21,Special offers,20,1019261,,,
+489,Dietary & world foods,15,Vitamins & supplements,21,Women's health,21,1019262,,,
+490,Dietary & world foods,15,World foods,23,African & Caribbean,10,1034075,,,
+491,Dietary & world foods,15,World foods,23,All world foods,11,1034069,,,
+492,Dietary & world foods,15,World foods,23,American,12,1034077,,,
+493,Dietary & world foods,15,World foods,23,Asian,13,1034070,,,
+494,Dietary & world foods,15,World foods,23,Bigger packs,14,1034079,,,
+495,Dietary & world foods,15,World foods,23,Eastern europe,15,1034073,,,
+496,Dietary & world foods,15,World foods,23,Far East & South East Asian,16,1034072,,,
+497,Dietary & world foods,15,World foods,23,Halal,17,1034071,,,
+498,Dietary & world foods,15,World foods,23,Irish,18,1034076,,,
+499,Dietary & world foods,15,World foods,23,Kosher,19,1034074,,,
+500,Dietary & world foods,15,World foods,23,Regional favourites,20,1034078,,,
+501,Dietary & world foods,15,World foods,23,Special offers,21,1034080,,,
+502,Drinks,16,Beer & cider,10,Ale & stout,10,1019266,,,
+503,Drinks,16,Beer & cider,10,All beer,11,1019267,,,
+504,Drinks,16,Beer & cider,10,Bigger packs,12,1019268,,,
+505,Drinks,16,Beer & cider,10,Cider,13,1019270,,,
+506,Drinks,16,Beer & cider,10,Craft beer,14,1019271,,,
+507,Drinks,16,Beer & cider,10,Lager,16,1019279,All lager,10.0,1019275.0
+508,Drinks,16,Beer & cider,10,Lager,16,1019279,Multipack lager,11.0,1019276.0
+509,Drinks,16,Beer & cider,10,Lager,16,1019279,Single bottles,12.0,1019277.0
+510,Drinks,16,Beer & cider,10,Lager,16,1019279,World lager,13.0,1019278.0
+511,Drinks,16,Beer & cider,10,Low & no alcohol beer & cider,16,1019280,,,
+512,Drinks,16,Beer & cider,10,Special offers,17,1019281,,,
+513,Drinks,16,Beer & cider,10,Speciality beer,18,1019282,,,
+514,Drinks,16,Beer & cider,10,World beer,19,1019284,,,
+515,Drinks,16,Champagne & sparkling wine,11,All champagne & sparkling wine,10,1019286,,,
+516,Drinks,16,Champagne & sparkling wine,11,Champagne,11,1019287,,,
+517,Drinks,16,Champagne & sparkling wine,11,Prosecco,12,1019289,,,
+518,Drinks,16,Champagne & sparkling wine,11,Sparkling wine,13,1019290,,,
+519,Drinks,16,Champagne & sparkling wine,11,Special offers,14,1019291,,,
+520,Drinks,16,Fizzy drinks,13,Bigger multipacks,10,1019295,,,
+521,Drinks,16,Fizzy drinks,13,Cola,12,1019301,All,10.0,1019297.0
+522,Drinks,16,Fizzy drinks,13,Cola,12,1019301,Multipack cans,11.0,1019298.0
+523,Drinks,16,Fizzy drinks,13,Cola,12,1019301,Sharing bottles,12.0,1019299.0
+524,Drinks,16,Fizzy drinks,13,Cola,12,1019301,Single bottles & cans,13.0,1019300.0
+525,Drinks,16,Fizzy drinks,13,Diet & sugar free,12,1019302,,,
+526,Drinks,16,Fizzy drinks,13,Fruit flavoured,13,1019303,,,
+527,Drinks,16,Fizzy drinks,13,Lemonade,14,1019304,,,
+528,Drinks,16,Fizzy drinks,13,Special offers,15,1019307,,,
+529,Drinks,16,Fizzy drinks,13,Traditional,16,1019309,,,
+530,Drinks,16,Juice & smoothies,14,All juice & smoothies,10,1019311,,,
+531,Drinks,16,Juice & smoothies,14,Chilled juice,12,1019318,All chilled juice,10.0,1019312.0
+532,Drinks,16,Juice & smoothies,14,Chilled juice,12,1019318,Apple juice,11.0,1019313.0
+533,Drinks,16,Juice & smoothies,14,Chilled juice,12,1019318,Berry juice,12.0,1019314.0
+534,Drinks,16,Juice & smoothies,14,Chilled juice,12,1019318,Citrus juice,13.0,1019315.0
+535,Drinks,16,Juice & smoothies,14,Chilled juice,12,1019318,Orange juice,14.0,1019316.0
+536,Drinks,16,Juice & smoothies,14,Chilled juice,12,1019318,Tropical juice,15.0,1019317.0
+537,Drinks,16,Juice & smoothies,14,Coconut water,12,1019319,,,
+538,Drinks,16,Juice & smoothies,14,Kids juice & smoothies,13,1019321,,,
+539,Drinks,16,Juice & smoothies,14,Kombucha,14,1019322,,,
+540,Drinks,16,Juice & smoothies,14,Long life juice,16,1019329,All long life juice,10.0,1019323.0
+541,Drinks,16,Juice & smoothies,14,Long life juice,16,1019329,Apple juice,11.0,1019324.0
+542,Drinks,16,Juice & smoothies,14,Long life juice,16,1019329,Berry juice,12.0,1019325.0
+543,Drinks,16,Juice & smoothies,14,Long life juice,16,1019329,Citrus juice,13.0,1019326.0
+544,Drinks,16,Juice & smoothies,14,Long life juice,16,1019329,Orange juice,14.0,1019327.0
+545,Drinks,16,Juice & smoothies,14,Long life juice,16,1019329,Tropical juice,15.0,1019328.0
+546,Drinks,16,Juice & smoothies,14,New,16,1019330,,,
+547,Drinks,16,Juice & smoothies,14,Smoothies,17,1019331,,,
+548,Drinks,16,Juice & smoothies,14,Special offers,18,1019332,,,
+549,Drinks,16,Low & no alcohol,17,All low and no alcohol,10,1019336,,,
+550,Drinks,16,Low & no alcohol,17,Low alcohol,11,1019337,,,
+551,Drinks,16,Low & no alcohol,17,No alcohol,12,1019338,,,
+552,Drinks,16,Low & no alcohol,17,Special offers,13,1019339,,,
+553,Drinks,16,Milk & milk drinks,18,Flavoured milk,10,1019341,,,
+554,Drinks,16,Milk & milk drinks,18,Fresh milk,11,1019342,,,
+555,Drinks,16,Milk & milk drinks,18,Longer life milk,12,1019343,,,
+556,Drinks,16,Milk & milk drinks,18,Milkshakes & milkshake mixes,13,1019344,,,
+557,Drinks,16,Milk & milk drinks,18,Special offers,14,1019345,,,
+558,Drinks,16,Mixers & adult soft drinks,19,Adult soft drinks,10,1019347,,,
+559,Drinks,16,Mixers & adult soft drinks,19,Cordials,11,1019348,,,
+560,Drinks,16,Mixers & adult soft drinks,19,Mixers,12,1019349,,,
+561,Drinks,16,Mixers & adult soft drinks,19,Special offers,13,1019351,,,
+562,Drinks,16,Spirits & liqueurs,21,All spirits & liqueurs,10,1019354,,,
+563,Drinks,16,Spirits & liqueurs,21,Brandy & Cognac,11,1019355,,,
+564,Drinks,16,Spirits & liqueurs,21,Gin,12,1019356,,,
+565,Drinks,16,Spirits & liqueurs,21,Hard seltzer,13,1019357,,,
+566,Drinks,16,Spirits & liqueurs,21,Liqueurs & speciality spirits,14,1019358,,,
+567,Drinks,16,Spirits & liqueurs,21,Low & no alcohol spirits,15,1019359,,,
+568,Drinks,16,Spirits & liqueurs,21,Miniatures & gifting,16,1019360,,,
+569,Drinks,16,Spirits & liqueurs,21,New,17,1019361,,,
+570,Drinks,16,Spirits & liqueurs,21,Premixed drinks & cocktails,18,1019362,,,
+571,Drinks,16,Spirits & liqueurs,21,Rum,19,1019363,,,
+572,Drinks,16,Spirits & liqueurs,21,"Sherry, port & fortified wine",20,1019364,,,
+573,Drinks,16,Spirits & liqueurs,21,Shop by brand,21,1019371,,,
+574,Drinks,16,Spirits & liqueurs,21,Special offers,22,1019372,,,
+575,Drinks,16,Spirits & liqueurs,21,Tequila,23,1019373,,,
+576,Drinks,16,Spirits & liqueurs,21,Vermouths & aperitifs,24,1019374,,,
+577,Drinks,16,Spirits & liqueurs,21,Vodka,25,1019375,,,
+578,Drinks,16,Spirits & liqueurs,21,Whisky,26,1019376,,,
+579,Drinks,16,"Sports, energy & wellbeing",22,All,10,1019378,,,
+580,Drinks,16,"Sports, energy & wellbeing",22,Diet & low sugar,11,1019379,,,
+581,Drinks,16,"Sports, energy & wellbeing",22,Energy drinks,12,1019380,,,
+582,Drinks,16,"Sports, energy & wellbeing",22,Special offers,13,1019381,,,
+583,Drinks,16,"Sports, energy & wellbeing",22,Sports cap water,14,1019382,,,
+584,Drinks,16,"Sports, energy & wellbeing",22,Sports drinks,15,1019383,,,
+585,Drinks,16,"Sports, energy & wellbeing",22,Sports nutritional drinks,16,1019384,,,
+586,Drinks,16,"Sports, energy & wellbeing",22,Vitamins & health drinks,17,1019385,,,
+587,Drinks,16,"Sports, energy & wellbeing",22,Yogurt drinks,18,1019386,,,
+588,Drinks,16,Squash & cordials,23,Cordials,10,1019388,,,
+589,Drinks,16,Squash & cordials,23,Special offers,11,1019390,,,
+590,Drinks,16,Squash & cordials,23,Squash,12,1019391,,,
+591,Drinks,16,Squash & cordials,23,Still fruit drinks,13,1019392,,,
+592,Drinks,16,"Tea, coffee & hot drinks",24,All tea & coffee,10,1019395,,,
+593,Drinks,16,"Tea, coffee & hot drinks",24,Coffee,12,1019405,All coffee,10.0,1019396.0
+594,Drinks,16,"Tea, coffee & hot drinks",24,Coffee,12,1019405,Brewing equipment,11.0,1019397.0
+595,Drinks,16,"Tea, coffee & hot drinks",24,Coffee,12,1019405,Coffee beans,12.0,1019398.0
+596,Drinks,16,"Tea, coffee & hot drinks",24,Coffee,12,1019405,Coffee to go,13.0,1019399.0
+597,Drinks,16,"Tea, coffee & hot drinks",24,Coffee,12,1019405,Decaffeinated,14.0,1019400.0
+598,Drinks,16,"Tea, coffee & hot drinks",24,Coffee,12,1019405,Ground coffee,15.0,1019401.0
+599,Drinks,16,"Tea, coffee & hot drinks",24,Coffee,12,1019405,Iced coffee,16.0,1019402.0
+600,Drinks,16,"Tea, coffee & hot drinks",24,Coffee,12,1019405,Instant coffee,17.0,1019403.0
+601,Drinks,16,"Tea, coffee & hot drinks",24,Coffee,12,1019405,Sachets,18.0,1019404.0
+602,Drinks,16,"Tea, coffee & hot drinks",24,Coffee machine pods,13,1019411,All coffee machine pods,10.0,1019406.0
+603,Drinks,16,"Tea, coffee & hot drinks",24,Coffee machine pods,13,1019411,Dolce Gusto compatible,11.0,1019407.0
+604,Drinks,16,"Tea, coffee & hot drinks",24,Coffee machine pods,13,1019411,Lavazza Modo Mio compatible,12.0,1019408.0
+605,Drinks,16,"Tea, coffee & hot drinks",24,Coffee machine pods,13,1019411,Nespresso compatible,13.0,1019409.0
+606,Drinks,16,"Tea, coffee & hot drinks",24,Coffee machine pods,13,1019411,Tassimo compatible,14.0,1019410.0
+607,Drinks,16,"Tea, coffee & hot drinks",24,Hot chocolate & milky drinks,13,1019412,,,
+608,Drinks,16,"Tea, coffee & hot drinks",24,Shop by brand,14,1019416,,,
+609,Drinks,16,"Tea, coffee & hot drinks",24,Special offers,15,1019417,,,
+610,Drinks,16,"Tea, coffee & hot drinks",24,Tea,17,1019427,All tea,10.0,1019418.0
+611,Drinks,16,"Tea, coffee & hot drinks",24,Tea,17,1019427,Cold brew,11.0,1019419.0
+612,Drinks,16,"Tea, coffee & hot drinks",24,Tea,17,1019427,Compostable tea bags,12.0,1019420.0
+613,Drinks,16,"Tea, coffee & hot drinks",24,Tea,17,1019427,Decaf & redbush tea,13.0,1019421.0
+614,Drinks,16,"Tea, coffee & hot drinks",24,Tea,17,1019427,Everyday tea,14.0,1019422.0
+615,Drinks,16,"Tea, coffee & hot drinks",24,Tea,17,1019427,Fruit & herbal tea,15.0,1019423.0
+616,Drinks,16,"Tea, coffee & hot drinks",24,Tea,17,1019427,Green tea,16.0,1019424.0
+617,Drinks,16,"Tea, coffee & hot drinks",24,Tea,17,1019427,Loose tea,17.0,1019425.0
+618,Drinks,16,"Tea, coffee & hot drinks",24,Tea,17,1019427,Speciality tea,18.0,1019426.0
+619,Drinks,16,Water,25,Bigger multipacks,10,1019429,,,
+620,Drinks,16,Water,25,Coconut water,11,1019431,,,
+621,Drinks,16,Water,25,Flavoured & vitamin water,12,1019432,,,
+622,Drinks,16,Water,25,Sparkling water,13,1019433,,,
+623,Drinks,16,Water,25,Special offers,14,1019434,,,
+624,Drinks,16,Water,25,Still water,15,1019435,,,
+625,Drinks,16,Water,25,Water filters,16,1019436,,,
+626,Drinks,16,Wine,26,All wine,10,1019438,,,
+627,Drinks,16,Wine,26,Fine wines,11,1019439,,,
+628,Drinks,16,Wine,26,Low & no alcohol wine,12,1019440,,,
+629,Drinks,16,Wine,26,Red wine,14,1019448,All red wine,10.0,1019442.0
+630,Drinks,16,Wine,26,Red wine,14,1019448,Malbec,11.0,1019443.0
+631,Drinks,16,Wine,26,Red wine,14,1019448,Merlot,12.0,1019444.0
+632,Drinks,16,Wine,26,Red wine,14,1019448,Pinot noir,13.0,1019445.0
+633,Drinks,16,Wine,26,Red wine,14,1019448,Rioja,14.0,1019446.0
+634,Drinks,16,Wine,26,Red wine,14,1019448,Shiraz,15.0,1019447.0
+635,Drinks,16,Wine,26,Rose wine,14,1019449,,,
+636,Drinks,16,Wine,26,"Sherry, port & fortified wine",15,1019450,,,
+637,Drinks,16,Wine,26,Small bottles,16,1019451,,,
+638,Drinks,16,Wine,26,Sparkling wine,17,1019452,,,
+639,Drinks,16,Wine,26,Special offers,18,1019453,,,
+640,Drinks,16,Wine,26,Vegan wine,19,1019455,,,
+641,Drinks,16,Wine,26,White wine,21,1019460,All white wine,10.0,1019456.0
+642,Drinks,16,Wine,26,White wine,21,1019460,Chardonnay,11.0,1019457.0
+643,Drinks,16,Wine,26,White wine,21,1019460,Pinot grigio,12.0,1019458.0
+644,Drinks,16,Wine,26,White wine,21,1019460,Sauvignon blanc,13.0,1019459.0
+645,Drinks,16,Wine,26,Wine boxes,21,1019461,,,
+646,Easter,17,Drinks,11,Beer & cider,10,1044276,,,
+647,Easter,17,Drinks,11,Low & no alcohol,11,1044279,,,
+648,Easter,17,Drinks,11,Soft drinks,12,1044278,,,
+649,Easter,17,Drinks,11,Special offers,13,1044280,,,
+650,Easter,17,Drinks,11,Spirits & liqueurs,14,1044277,,,
+651,Easter,17,Drinks,11,Wine & sparkling,15,1044275,,,
+652,Easter,17,Easter eggs & chocolate,15,Freefrom & vegan,10,1044287,,,
+653,Easter,17,Easter eggs & chocolate,15,Large,11,1044283,,,
+654,Easter,17,Easter eggs & chocolate,15,Little Treats,12,1044285,,,
+655,Easter,17,Easter eggs & chocolate,15,Luxury,13,1044284,,,
+656,Easter,17,Easter eggs & chocolate,15,Novelty,14,1044286,,,
+657,Easter,17,Easter eggs & chocolate,15,Small & medium,15,1044282,,,
+658,Easter,17,Easter eggs & chocolate,15,Special offers,16,1044288,,,
+659,Easter,17,Easter lunch,16,Centrepieces,10,1044290,,,
+660,Easter,17,Easter lunch,16,Desserts,11,1044294,,,
+661,Easter,17,Easter lunch,16,Gravies & sauces,12,1044293,,,
+662,Easter,17,Easter lunch,16,Sides & trimmings,13,1044292,,,
+663,Easter,17,Easter lunch,16,Special offers,14,1044295,,,
+664,Easter,17,Easter lunch,16,Vegetables,15,1044291,,,
+665,Food cupboard,18,Biscuits & crackers,10,Biscuits,11,1019474,All biscuits,10.0,1043010.0
+666,Food cupboard,18,Biscuits & crackers,10,Biscuits,11,1019474,Biscuit assortments,11.0,1019464.0
+667,Food cupboard,18,Biscuits & crackers,10,Biscuits,11,1019474,Biscuit barrel,12.0,1019465.0
+668,Food cupboard,18,Biscuits & crackers,10,Biscuits,11,1019474,Chocolate biscuit bars,13.0,1019466.0
+669,Food cupboard,18,Biscuits & crackers,10,Biscuits,11,1019474,Chocolate biscuits,14.0,1019467.0
+670,Food cupboard,18,Biscuits & crackers,10,Biscuits,11,1019474,Cookies,15.0,1019468.0
+671,Food cupboard,18,Biscuits & crackers,10,Biscuits,11,1019474,Freefrom biscuits,16.0,1019469.0
+672,Food cupboard,18,Biscuits & crackers,10,Biscuits,11,1019474,Healthier biscuits,17.0,1019470.0
+673,Food cupboard,18,Biscuits & crackers,10,Biscuits,11,1019474,Kids biscuits,18.0,1019471.0
+674,Food cupboard,18,Biscuits & crackers,10,Biscuits,11,1019474,Luxury & continental,19.0,1019472.0
+675,Food cupboard,18,Biscuits & crackers,10,Biscuits,11,1019474,Shortbread,20.0,1019473.0
+676,Food cupboard,18,Biscuits & crackers,10,Cereal bars & breakfast biscuits,12,1019481,All cereal bars,10.0,1019475.0
+677,Food cupboard,18,Biscuits & crackers,10,Cereal bars & breakfast biscuits,12,1019481,Breakfast biscuits,11.0,1019476.0
+678,Food cupboard,18,Biscuits & crackers,10,Cereal bars & breakfast biscuits,12,1019481,Fruit & granola cereal bars,12.0,1019477.0
+679,Food cupboard,18,Biscuits & crackers,10,Cereal bars & breakfast biscuits,12,1019481,Healthier cereal bars,13.0,1019478.0
+680,Food cupboard,18,Biscuits & crackers,10,Cereal bars & breakfast biscuits,12,1019481,Treat cereal bars,14.0,1019480.0
+681,Food cupboard,18,Biscuits & crackers,10,"Crackers, crispbreads & nibbles",13,1019491,Cracker & pitta crisps,10.0,1019482.0
+682,Food cupboard,18,Biscuits & crackers,10,"Crackers, crispbreads & nibbles",13,1019491,Cracker assortments,11.0,1019483.0
+683,Food cupboard,18,Biscuits & crackers,10,"Crackers, crispbreads & nibbles",13,1019491,Crackers,12.0,1019484.0
+684,Food cupboard,18,Biscuits & crackers,10,"Crackers, crispbreads & nibbles",13,1019491,Crispbreads & flatbreads,13.0,1019485.0
+685,Food cupboard,18,Biscuits & crackers,10,"Crackers, crispbreads & nibbles",13,1019491,Flavoured crackers,14.0,1019486.0
+686,Food cupboard,18,Biscuits & crackers,10,"Crackers, crispbreads & nibbles",13,1019491,Freefrom crackers,15.0,1019487.0
+687,Food cupboard,18,Biscuits & crackers,10,"Crackers, crispbreads & nibbles",13,1019491,"Nibbles, sticks & twists",16.0,1019488.0
+688,Food cupboard,18,Biscuits & crackers,10,"Crackers, crispbreads & nibbles",13,1019491,Oat cakes,17.0,1019489.0
+689,Food cupboard,18,Biscuits & crackers,10,"Crackers, crispbreads & nibbles",13,1019491,Rice & corn cakes,18.0,1019490.0
+690,Food cupboard,18,Biscuits & crackers,10,Special offers,13,1019494,,,
+691,Food cupboard,18,"Canned, tinned & packaged foods",11,Baked beans & canned pasta,10,1019496,,,
+692,Food cupboard,18,"Canned, tinned & packaged foods",11,Cold meat,11,1019497,,,
+693,Food cupboard,18,"Canned, tinned & packaged foods",11,Fish,13,1019510,All,10.0,1019498.0
+694,Food cupboard,18,"Canned, tinned & packaged foods",11,Fish,13,1019510,Flavoured fish,11.0,1019499.0
+695,Food cupboard,18,"Canned, tinned & packaged foods",11,Fish,13,1019510,"Lunches, snacks & sides",12.0,1019500.0
+696,Food cupboard,18,"Canned, tinned & packaged foods",11,Fish,13,1019510,Mackerel,13.0,1019501.0
+697,Food cupboard,18,"Canned, tinned & packaged foods",11,Fish,13,1019510,Multipack tuna,14.0,1019502.0
+698,Food cupboard,18,"Canned, tinned & packaged foods",11,Fish,13,1019510,No drain tuna,15.0,1019503.0
+699,Food cupboard,18,"Canned, tinned & packaged foods",11,Fish,13,1019510,Oily fish,16.0,1019504.0
+700,Food cupboard,18,"Canned, tinned & packaged foods",11,Fish,13,1019510,Salmon,17.0,1019505.0
+701,Food cupboard,18,"Canned, tinned & packaged foods",11,Fish,13,1019510,Sandwich fillers,18.0,1019506.0
+702,Food cupboard,18,"Canned, tinned & packaged foods",11,Fish,13,1019510,Sardines,19.0,1019507.0
+703,Food cupboard,18,"Canned, tinned & packaged foods",11,Fish,13,1019510,Single pack tuna,20.0,1019508.0
+704,Food cupboard,18,"Canned, tinned & packaged foods",11,Fish,13,1019510,Speciality seafood,21.0,1019509.0
+705,Food cupboard,18,"Canned, tinned & packaged foods",11,Fruit,13,1019511,,,
+706,Food cupboard,18,"Canned, tinned & packaged foods",11,Hot meat & meals,14,1019512,,,
+707,Food cupboard,18,"Canned, tinned & packaged foods",11,Instant snacks & meals,15,1019513,,,
+708,Food cupboard,18,"Canned, tinned & packaged foods",11,Olives & antipasti,16,1019514,,,
+709,Food cupboard,18,"Canned, tinned & packaged foods",11,Pickled food,17,1019515,,,
+710,Food cupboard,18,"Canned, tinned & packaged foods",11,Pulses & beans,18,1019516,,,
+711,Food cupboard,18,"Canned, tinned & packaged foods",11,Soups,20,1019528,All,10.0,1019517.0
+712,Food cupboard,18,"Canned, tinned & packaged foods",11,Soups,20,1019528,Chunky & hearty,11.0,1019519.0
+713,Food cupboard,18,"Canned, tinned & packaged foods",11,Soups,20,1019528,Condensed,12.0,1019520.0
+714,Food cupboard,18,"Canned, tinned & packaged foods",11,Soups,20,1019528,Cup & instant,13.0,1019521.0
+715,Food cupboard,18,"Canned, tinned & packaged foods",11,Soups,20,1019528,Flavours of the world,14.0,1019522.0
+716,Food cupboard,18,"Canned, tinned & packaged foods",11,Soups,20,1019528,Healthier options,15.0,1019523.0
+717,Food cupboard,18,"Canned, tinned & packaged foods",11,Soups,20,1019528,Luxury,16.0,1019524.0
+718,Food cupboard,18,"Canned, tinned & packaged foods",11,Soups,20,1019528,Multipacks,17.0,1019525.0
+719,Food cupboard,18,"Canned, tinned & packaged foods",11,Soups,20,1019528,Traditional,18.0,1019527.0
+720,Food cupboard,18,"Canned, tinned & packaged foods",11,Special offers,20,1019529,,,
+721,Food cupboard,18,"Canned, tinned & packaged foods",11,Tomatoes,21,1019530,,,
+722,Food cupboard,18,"Canned, tinned & packaged foods",11,Vegetables,23,1019538,All,10.0,1019531.0
+723,Food cupboard,18,"Canned, tinned & packaged foods",11,Vegetables,23,1019538,"Beans, carrots & spinach",11.0,1019532.0
+724,Food cupboard,18,"Canned, tinned & packaged foods",11,Vegetables,23,1019538,Other vegetables,12.0,1019533.0
+725,Food cupboard,18,"Canned, tinned & packaged foods",11,Vegetables,23,1019538,Peas,13.0,1019534.0
+726,Food cupboard,18,"Canned, tinned & packaged foods",11,Vegetables,23,1019538,Potatoes,14.0,1019535.0
+727,Food cupboard,18,"Canned, tinned & packaged foods",11,Vegetables,23,1019538,"Pulses, beans & lentils",15.0,1019536.0
+728,Food cupboard,18,"Canned, tinned & packaged foods",11,Vegetables,23,1019538,Sweetcorn,16.0,1019537.0
+729,Food cupboard,18,"Canned, tinned & packaged foods",11,Vegetarian,23,1019539,,,
+730,Food cupboard,18,Cereals,12,All cereals,10,1019541,,,
+731,Food cupboard,18,Cereals,12,Breakfast on the go,12,1019545,Breakfast drinks,10.0,1019542.0
+732,Food cupboard,18,Cereals,12,Breakfast on the go,12,1019545,Cereal on the go,11.0,1019543.0
+733,Food cupboard,18,Cereals,12,Breakfast on the go,12,1019545,Porridge on the go,12.0,1019544.0
+734,Food cupboard,18,Cereals,12,Cereal bars & breakfast biscuits,12,1019547,,,
+735,Food cupboard,18,Cereals,12,Everyday cereals,14,1019554,Bran,10.0,1019548.0
+736,Food cupboard,18,Cereals,12,Everyday cereals,14,1019554,Flakes,11.0,1019549.0
+737,Food cupboard,18,Cereals,12,Everyday cereals,14,1019554,Multigrain hoops,12.0,1019550.0
+738,Food cupboard,18,Cereals,12,Everyday cereals,14,1019554,Rice pops,13.0,1019551.0
+739,Food cupboard,18,Cereals,12,Everyday cereals,14,1019554,Wheat biscuits,14.0,1019552.0
+740,Food cupboard,18,Cereals,12,Everyday cereals,14,1019554,Wheats,15.0,1019553.0
+741,Food cupboard,18,Cereals,12,Family favourites,14,1019555,,,
+742,Food cupboard,18,Cereals,12,Freefrom & organic,16,1019558,All freefrom,10.0,1019556.0
+743,Food cupboard,18,Cereals,12,Freefrom & organic,16,1019558,Organic,11.0,1019557.0
+744,Food cupboard,18,Cereals,12,"Granola, crisps & clusters",16,1019559,,,
+745,Food cupboard,18,Cereals,12,Healthier cereals,18,1019563,Bran & fibre,10.0,1019560.0
+746,Food cupboard,18,Cereals,12,Healthier cereals,18,1019563,High protein,11.0,1019561.0
+747,Food cupboard,18,Cereals,12,Healthier cereals,18,1019563,Low sugar & no added sugar,12.0,1019562.0
+748,Food cupboard,18,Cereals,12,Muesli,18,1019564,,,
+749,Food cupboard,18,Cereals,12,Porridge & oats,20,1019569,All,10.0,1019565.0
+750,Food cupboard,18,Cereals,12,Porridge & oats,20,1019569,Oats,11.0,1019566.0
+751,Food cupboard,18,Cereals,12,Porridge & oats,20,1019569,Sachets,12.0,1019567.0
+752,Food cupboard,18,Cereals,12,Porridge & oats,20,1019569,Single serve pots,13.0,1019568.0
+753,Food cupboard,18,Cereals,12,Shop by brand,20,1019571,,,
+754,Food cupboard,18,Cereals,12,Special offers,21,1019572,,,
+755,Food cupboard,18,Confectionery,13,Block chocolate bars,10,1019574,,,
+756,Food cupboard,18,Confectionery,13,Boxed chocolate,11,1019575,,,
+757,Food cupboard,18,Confectionery,13,Chocolate pouches & bags,12,1019577,,,
+758,Food cupboard,18,Confectionery,13,Mints & chewing gums,13,1019580,,,
+759,Food cupboard,18,Confectionery,13,Multipack chocolate,14,1019581,,,
+760,Food cupboard,18,Confectionery,13,Single bar chocolate,15,1019583,,,
+761,Food cupboard,18,Confectionery,13,Special offers,16,1019584,,,
+762,Food cupboard,18,Confectionery,13,Sweets,18,1019597,All sweets,10.0,1019585.0
+763,Food cupboard,18,Confectionery,13,Sweets,18,1019597,Boiled & hard sweets,11.0,1019586.0
+764,Food cupboard,18,Confectionery,13,Sweets,18,1019597,Chewy sweets,12.0,1019587.0
+765,Food cupboard,18,Confectionery,13,Sweets,18,1019597,Chocolate sweets,13.0,1019588.0
+766,Food cupboard,18,Confectionery,13,Sweets,18,1019597,Gifting,14.0,1019589.0
+767,Food cupboard,18,Confectionery,13,Sweets,18,1019597,Jelly & soft sweets,15.0,1019590.0
+768,Food cupboard,18,Confectionery,13,Sweets,18,1019597,"Liquorice, laces & lollipops",16.0,1019591.0
+769,Food cupboard,18,Confectionery,13,Sweets,18,1019597,Marshmallows,17.0,1019592.0
+770,Food cupboard,18,Confectionery,13,Sweets,18,1019597,Multipacks & party sweets,18.0,1019593.0
+771,Food cupboard,18,Confectionery,13,Sweets,18,1019597,Single sweets,19.0,1019594.0
+772,Food cupboard,18,Confectionery,13,Sweets,18,1019597,Sour & sherbet,20.0,1019595.0
+773,Food cupboard,18,Confectionery,13,Sweets,18,1019597,"Toffee, fudge & nougat",21.0,1019596.0
+774,Food cupboard,18,Cooking ingredients & oils,14,Breaded & batter coatings,10,1019599,,,
+775,Food cupboard,18,Cooking ingredients & oils,14,Chilli & curry powder,11,1019600,,,
+776,Food cupboard,18,Cooking ingredients & oils,14,Cooking pastes,12,1019602,,,
+777,Food cupboard,18,Cooking ingredients & oils,14,Gravies,13,1019603,,,
+778,Food cupboard,18,Cooking ingredients & oils,14,"Herbs, spices & seasoning",15,1019609,All,10.0,1019604.0
+779,Food cupboard,18,Cooking ingredients & oils,14,"Herbs, spices & seasoning",15,1019609,Garlic,11.0,1019605.0
+780,Food cupboard,18,Cooking ingredients & oils,14,"Herbs, spices & seasoning",15,1019609,Herbs,12.0,1019606.0
+781,Food cupboard,18,Cooking ingredients & oils,14,"Herbs, spices & seasoning",15,1019609,Seasoning,13.0,1019607.0
+782,Food cupboard,18,Cooking ingredients & oils,14,"Herbs, spices & seasoning",15,1019609,Spices,14.0,1019608.0
+783,Food cupboard,18,Cooking ingredients & oils,14,Oils,16,1019623,All oils,10.0,1019610.0
+784,Food cupboard,18,Cooking ingredients & oils,14,Oils,16,1019623,Bigger pack,11.0,1019611.0
+785,Food cupboard,18,Cooking ingredients & oils,14,Oils,16,1019623,Coconut oil,12.0,1019612.0
+786,Food cupboard,18,Cooking ingredients & oils,14,Oils,16,1019623,Cold pressed oil,13.0,1019613.0
+787,Food cupboard,18,Cooking ingredients & oils,14,Oils,16,1019623,"Corn, seed & nut oil",14.0,1019614.0
+788,Food cupboard,18,Cooking ingredients & oils,14,Oils,16,1019623,Extra virgin olive oil,15.0,1019615.0
+789,Food cupboard,18,Cooking ingredients & oils,14,Oils,16,1019623,Flavoured oil,16.0,1019616.0
+790,Food cupboard,18,Cooking ingredients & oils,14,Oils,16,1019623,Olive oil,17.0,1019617.0
+791,Food cupboard,18,Cooking ingredients & oils,14,Oils,16,1019623,Organic oil,18.0,1019618.0
+792,Food cupboard,18,Cooking ingredients & oils,14,Oils,16,1019623,Rapeseed oil,19.0,1019619.0
+793,Food cupboard,18,Cooking ingredients & oils,14,Oils,16,1019623,Spray oil,20.0,1019620.0
+794,Food cupboard,18,Cooking ingredients & oils,14,Oils,16,1019623,Sunflower oil,21.0,1019621.0
+795,Food cupboard,18,Cooking ingredients & oils,14,Oils,16,1019623,Vegetable oil,22.0,1019622.0
+796,Food cupboard,18,Cooking ingredients & oils,14,Pastry & savoury mixes,16,1019624,,,
+797,Food cupboard,18,Cooking ingredients & oils,14,Salt & pepper,17,1019625,,,
+798,Food cupboard,18,Cooking ingredients & oils,14,Special offers,18,1019626,,,
+799,Food cupboard,18,Cooking ingredients & oils,14,Speciality ingredients,19,1019627,,,
+800,Food cupboard,18,Cooking ingredients & oils,14,Stocks,20,1019628,,,
+801,Food cupboard,18,Cooking ingredients & oils,14,Stuffings,21,1019629,,,
+802,Food cupboard,18,Cooking sauces & meal kits,15,All,10,1019631,,,
+803,Food cupboard,18,Cooking sauces & meal kits,15,Chinese,11,1019632,,,
+804,Food cupboard,18,Cooking sauces & meal kits,15,Indian,13,1019640,All,10.0,1019633.0
+805,Food cupboard,18,Cooking sauces & meal kits,15,Indian,13,1019640,Indian curry pastes,11.0,1019634.0
+806,Food cupboard,18,Cooking sauces & meal kits,15,Indian,13,1019640,Korma & mild curries,12.0,1019635.0
+807,Food cupboard,18,Cooking sauces & meal kits,15,Indian,13,1019640,Madras & hot curries,13.0,1019636.0
+808,Food cupboard,18,Cooking sauces & meal kits,15,Indian,13,1019640,"Naan, poppadoms & chutneys",14.0,1019637.0
+809,Food cupboard,18,Cooking sauces & meal kits,15,Indian,13,1019640,Thai pastes & curry sauce,15.0,1019638.0
+810,Food cupboard,18,Cooking sauces & meal kits,15,Indian,13,1019640,Tikka masala & medium curries,16.0,1019639.0
+811,Food cupboard,18,Cooking sauces & meal kits,15,Italian,14,1019652,All,10.0,1019641.0
+812,Food cupboard,18,Cooking sauces & meal kits,15,Italian,14,1019652,Bolognese,11.0,1019642.0
+813,Food cupboard,18,Cooking sauces & meal kits,15,Italian,14,1019652,Lasagne sauces & kits,12.0,1019643.0
+814,Food cupboard,18,Cooking sauces & meal kits,15,Italian,14,1019652,Organic,13.0,1019644.0
+815,Food cupboard,18,Cooking sauces & meal kits,15,Italian,14,1019652,Passata & puree,14.0,1019645.0
+816,Food cupboard,18,Cooking sauces & meal kits,15,Italian,14,1019652,Pasta bake,15.0,1019646.0
+817,Food cupboard,18,Cooking sauces & meal kits,15,Italian,14,1019652,Pesto,16.0,1019647.0
+818,Food cupboard,18,Cooking sauces & meal kits,15,Italian,14,1019652,Pizza base & sauces,17.0,1019648.0
+819,Food cupboard,18,Cooking sauces & meal kits,15,Italian,14,1019652,Stir in sauces & pouches,18.0,1019649.0
+820,Food cupboard,18,Cooking sauces & meal kits,15,Italian,14,1019652,Tomato pasta sauce,19.0,1019650.0
+821,Food cupboard,18,Cooking sauces & meal kits,15,Italian,14,1019652,White & cheese,20.0,1019651.0
+822,Food cupboard,18,Cooking sauces & meal kits,15,Meal kits,14,1019653,,,
+823,Food cupboard,18,Cooking sauces & meal kits,15,Mexican,16,1019661,All,10.0,1019654.0
+824,Food cupboard,18,Cooking sauces & meal kits,15,Mexican,16,1019661,Meal kits,11.0,1019655.0
+825,Food cupboard,18,Cooking sauces & meal kits,15,Mexican,16,1019661,Mexican cooking sauces,12.0,1019656.0
+826,Food cupboard,18,Cooking sauces & meal kits,15,Mexican,16,1019661,Nachos & snacking,13.0,1019657.0
+827,Food cupboard,18,Cooking sauces & meal kits,15,Mexican,16,1019661,Salsas & accompaniments,14.0,1019658.0
+828,Food cupboard,18,Cooking sauces & meal kits,15,Mexican,16,1019661,Seasoning mixes & ingredients,15.0,1019659.0
+829,Food cupboard,18,Cooking sauces & meal kits,15,Mexican,16,1019661,Tortillas & taco shells,16.0,1019660.0
+830,Food cupboard,18,Cooking sauces & meal kits,15,Middle Eastern,16,1019662,,,
+831,Food cupboard,18,Cooking sauces & meal kits,15,Special offers,17,1019663,,,
+832,Food cupboard,18,Cooking sauces & meal kits,15,"Thai, Japanese & Emerging cuisines",18,1019664,,,
+833,Food cupboard,18,Cooking sauces & meal kits,15,Traditional & packet sauces,19,1019665,,,
+834,Food cupboard,18,"Crisps, nuts & snacking fruit",16,Better for you crisps,10,1019670,,,
+835,Food cupboard,18,"Crisps, nuts & snacking fruit",16,Lunchbox snacking,11,1019673,,,
+836,Food cupboard,18,"Crisps, nuts & snacking fruit",16,Meat snacking,12,1019674,,,
+837,Food cupboard,18,"Crisps, nuts & snacking fruit",16,Multipack crisps,14,1019679,4-9 packs,10.0,1019676.0
+838,Food cupboard,18,"Crisps, nuts & snacking fruit",16,Multipack crisps,14,1019679,10+ packs,11.0,1019675.0
+839,Food cupboard,18,"Crisps, nuts & snacking fruit",16,Multipack crisps,14,1019679,All,12.0,1019677.0
+840,Food cupboard,18,"Crisps, nuts & snacking fruit",16,Nuts,14,1019680,,,
+841,Food cupboard,18,"Crisps, nuts & snacking fruit",16,Popcorn,15,1019681,,,
+842,Food cupboard,18,"Crisps, nuts & snacking fruit",16,Sharing crisps,17,1019689,All,10.0,1019682.0
+843,Food cupboard,18,"Crisps, nuts & snacking fruit",16,Sharing crisps,17,1019689,Cracker crisps & pitta chips,11.0,1019684.0
+844,Food cupboard,18,"Crisps, nuts & snacking fruit",16,Sharing crisps,17,1019689,Everyday crisps,12.0,1019685.0
+845,Food cupboard,18,"Crisps, nuts & snacking fruit",16,Sharing crisps,17,1019689,Party nibbles & snacks,13.0,1019686.0
+846,Food cupboard,18,"Crisps, nuts & snacking fruit",16,Sharing crisps,17,1019689,Premium crisps,14.0,1019687.0
+847,Food cupboard,18,"Crisps, nuts & snacking fruit",16,Sharing crisps,17,1019689,Tortilla chips,15.0,1019688.0
+848,Food cupboard,18,"Crisps, nuts & snacking fruit",16,Snacking fruit & seeds,17,1019690,,,
+849,Food cupboard,18,"Crisps, nuts & snacking fruit",16,Special offers,18,1019691,,,
+850,Food cupboard,18,Freefrom,19,Egg free,10,1019698,,,
+851,Food cupboard,18,Freefrom,19,Gluten free,12,1019713,All gluten free,10.0,1019699.0
+852,Food cupboard,18,Freefrom,19,Gluten free,12,1019713,Beer,11.0,1019700.0
+853,Food cupboard,18,Freefrom,19,Gluten free,12,1019713,"Biscuits, chocolate & treats",12.0,1019701.0
+854,Food cupboard,18,Freefrom,19,Gluten free,12,1019713,Bread & cakes,13.0,1019702.0
+855,Food cupboard,18,Freefrom,19,Gluten free,12,1019713,Breakfast cereals & cereal bars,14.0,1019703.0
+856,Food cupboard,18,Freefrom,19,Gluten free,12,1019713,Cheese & dairy alternatives,15.0,1019704.0
+857,Food cupboard,18,Freefrom,19,Gluten free,12,1019713,Cooking sauces & ingredients,16.0,1019705.0
+858,Food cupboard,18,Freefrom,19,Gluten free,12,1019713,Crisps & snacks,17.0,1019706.0
+859,Food cupboard,18,Freefrom,19,Gluten free,12,1019713,Flour & homebaking,18.0,1019707.0
+860,Food cupboard,18,Freefrom,19,Gluten free,12,1019713,Frozen,19.0,1019708.0
+861,Food cupboard,18,Freefrom,19,Gluten free,12,1019713,Pasta & noodles,20.0,1019709.0
+862,Food cupboard,18,Freefrom,19,Gluten free,12,1019713,"Pies, pastry & ready meals",21.0,1019710.0
+863,Food cupboard,18,Freefrom,19,Gluten free,12,1019713,Prepared meat & fish,22.0,1019711.0
+864,Food cupboard,18,Freefrom,19,Gluten free,12,1019713,"Table sauces, condiments & dressings",23.0,1019712.0
+865,Food cupboard,18,Freefrom,19,Milk free,13,1019726,All milk free,10.0,1019714.0
+866,Food cupboard,18,Freefrom,19,Milk free,13,1019726,Bread & cakes,11.0,1019715.0
+867,Food cupboard,18,Freefrom,19,Milk free,13,1019726,Breakfast cereals & cereal bars,12.0,1019716.0
+868,Food cupboard,18,Freefrom,19,Milk free,13,1019726,Cheese,13.0,1019717.0
+869,Food cupboard,18,Freefrom,19,Milk free,13,1019726,Chocolate & biscuits,14.0,1019718.0
+870,Food cupboard,18,Freefrom,19,Milk free,13,1019726,Cooking sauces & ingredients,15.0,1019719.0
+871,Food cupboard,18,Freefrom,19,Milk free,13,1019726,Flour & homebaking,16.0,1019720.0
+872,Food cupboard,18,Freefrom,19,Milk free,13,1019726,Frozen,17.0,1019721.0
+873,Food cupboard,18,Freefrom,19,Milk free,13,1019726,Ice cream & desserts,18.0,1019722.0
+874,Food cupboard,18,Freefrom,19,Milk free,13,1019726,Milk & cream alternatives,19.0,1019723.0
+875,Food cupboard,18,Freefrom,19,Milk free,13,1019726,Ready meals,20.0,1019724.0
+876,Food cupboard,18,Freefrom,19,Milk free,13,1019726,Spreads,21.0,1034047.0
+877,Food cupboard,18,Freefrom,19,Milk free,13,1019726,Yogurts,22.0,1019725.0
+878,Food cupboard,18,Freefrom,19,Nut free,13,1019727,,,
+879,Food cupboard,18,Freefrom,19,Soya free,14,1019728,,,
+880,Food cupboard,18,Freefrom,19,Special offers,15,1019729,,,
+881,Food cupboard,18,Fruit & desserts,20,Custard,10,1019731,,,
+882,Food cupboard,18,Fruit & desserts,20,Dessert mixes,11,1019732,,,
+883,Food cupboard,18,Fruit & desserts,20,Dessert pots,12,1019733,,,
+884,Food cupboard,18,Fruit & desserts,20,Fruit,13,1019734,,,
+885,Food cupboard,18,Fruit & desserts,20,Ice cream cones & wafers,14,1019735,,,
+886,Food cupboard,18,Fruit & desserts,20,Jelly,15,1019736,,,
+887,Food cupboard,18,Fruit & desserts,20,Kids & lunchbox,16,1019737,,,
+888,Food cupboard,18,Fruit & desserts,20,Meringues & bases,17,1019738,,,
+889,Food cupboard,18,Fruit & desserts,20,Milk & cream,18,1019739,,,
+890,Food cupboard,18,Fruit & desserts,20,Rice & sponge pudding,19,1019740,,,
+891,Food cupboard,18,Fruit & desserts,20,Sauces & toppings,20,1019741,,,
+892,Food cupboard,18,Fruit & desserts,20,Snacking fruit & nuts,21,1019742,,,
+893,Food cupboard,18,Fruit & desserts,20,Special offers,22,1019743,,,
+894,Food cupboard,18,"Jams, honey & spreads",21,Chocolate & sweet spreads,10,1019745,,,
+895,Food cupboard,18,"Jams, honey & spreads",21,Curds,11,1019746,,,
+896,Food cupboard,18,"Jams, honey & spreads",21,Honey,12,1019747,,,
+897,Food cupboard,18,"Jams, honey & spreads",21,Jams & conserves,13,1019748,,,
+898,Food cupboard,18,"Jams, honey & spreads",21,Marmalade,14,1019749,,,
+899,Food cupboard,18,"Jams, honey & spreads",21,Marmite & yeast extracts,15,1019750,,,
+900,Food cupboard,18,"Jams, honey & spreads",21,Nut butter,16,1019751,,,
+901,Food cupboard,18,"Jams, honey & spreads",21,Savoury pastes,17,1019752,,,
+902,Food cupboard,18,"Jams, honey & spreads",21,Special offers,18,1019753,,,
+903,Food cupboard,18,"Rice, pasta & noodles",22,Instant snack & meals,11,1019765,All,10.0,1019755.0
+904,Food cupboard,18,"Rice, pasta & noodles",22,Instant snack & meals,11,1019765,Couscous snacks,11.0,1019756.0
+905,Food cupboard,18,"Rice, pasta & noodles",22,Instant snack & meals,11,1019765,Cup and instant soup,12.0,1019757.0
+906,Food cupboard,18,"Rice, pasta & noodles",22,Instant snack & meals,11,1019765,Healthier options,13.0,1019758.0
+907,Food cupboard,18,"Rice, pasta & noodles",22,Instant snack & meals,11,1019765,Mug snacks,14.0,1019759.0
+908,Food cupboard,18,"Rice, pasta & noodles",22,Instant snack & meals,11,1019765,Multipacks,15.0,1019760.0
+909,Food cupboard,18,"Rice, pasta & noodles",22,Instant snack & meals,11,1019765,Noodle Pots,16.0,1019761.0
+910,Food cupboard,18,"Rice, pasta & noodles",22,Instant snack & meals,11,1019765,Pasta snacks,17.0,1019762.0
+911,Food cupboard,18,"Rice, pasta & noodles",22,Instant snack & meals,11,1019765,"Quinoa, beans & pulses based snacks",18.0,1019763.0
+912,Food cupboard,18,"Rice, pasta & noodles",22,Instant snack & meals,11,1019765,Rice snacks,19.0,1019764.0
+913,Food cupboard,18,"Rice, pasta & noodles",22,Microwave rice,12,1019771,All,10.0,1019766.0
+914,Food cupboard,18,"Rice, pasta & noodles",22,Microwave rice,12,1019771,Brown & wholegrain,11.0,1019767.0
+915,Food cupboard,18,"Rice, pasta & noodles",22,Microwave rice,12,1019771,Flavoured,12.0,1019768.0
+916,Food cupboard,18,"Rice, pasta & noodles",22,Microwave rice,12,1019771,Plain,13.0,1019769.0
+917,Food cupboard,18,"Rice, pasta & noodles",22,Microwave rice,12,1019771,"Quinoa, grains & pulses",14.0,1019770.0
+918,Food cupboard,18,"Rice, pasta & noodles",22,Noodles,12,1019772,,,
+919,Food cupboard,18,"Rice, pasta & noodles",22,Pasta,14,1019784,All,10.0,1019773.0
+920,Food cupboard,18,"Rice, pasta & noodles",22,Pasta,14,1019784,"Farfalle, shapes & shells",11.0,1019774.0
+921,Food cupboard,18,"Rice, pasta & noodles",22,Pasta,14,1019784,Fusilli & spiral,12.0,1019775.0
+922,Food cupboard,18,"Rice, pasta & noodles",22,Pasta,14,1019784,Gluten free,13.0,1019776.0
+923,Food cupboard,18,"Rice, pasta & noodles",22,Pasta,14,1019784,Lasagne & cannelloni,14.0,1019777.0
+924,Food cupboard,18,"Rice, pasta & noodles",22,Pasta,14,1019784,Linguine & tagliatelle,15.0,1019778.0
+925,Food cupboard,18,"Rice, pasta & noodles",22,Pasta,14,1019784,Macaroni & tubes,16.0,1019779.0
+926,Food cupboard,18,"Rice, pasta & noodles",22,Pasta,14,1019784,Penne,17.0,1019780.0
+927,Food cupboard,18,"Rice, pasta & noodles",22,Pasta,14,1019784,Spaghetti,18.0,1019781.0
+928,Food cupboard,18,"Rice, pasta & noodles",22,Pasta,14,1019784,"Wholewheat, spelt & buckwheat",19.0,1019783.0
+929,Food cupboard,18,"Rice, pasta & noodles",22,"Quinoa, couscous & pulses",14,1019785,,,
+930,Food cupboard,18,"Rice, pasta & noodles",22,Rice,16,1019792,All rice,10.0,1019786.0
+931,Food cupboard,18,"Rice, pasta & noodles",22,Rice,16,1019792,Basmati,11.0,1019787.0
+932,Food cupboard,18,"Rice, pasta & noodles",22,Rice,16,1019792,Boil in the bag,12.0,1019788.0
+933,Food cupboard,18,"Rice, pasta & noodles",22,Rice,16,1019792,"Brown, wholegrain & wild",13.0,1019789.0
+934,Food cupboard,18,"Rice, pasta & noodles",22,Rice,16,1019792,Long grain,14.0,1019790.0
+935,Food cupboard,18,"Rice, pasta & noodles",22,Rice,16,1019792,"Risotto, paella & speciality",15.0,1019791.0
+936,Food cupboard,18,"Rice, pasta & noodles",22,Special offers,16,1019793,,,
+937,Food cupboard,18,Stock up the cupboards,24,Food cupboard essentials,10,1019797,,,
+938,Food cupboard,18,Sugar & home baking,25,Baking & dessert mixes,11,1019804,Batter and pancake mixes,10.0,1019799.0
+939,Food cupboard,18,Sugar & home baking,25,Baking & dessert mixes,11,1019804,Cake & sweet mixes,11.0,1019800.0
+940,Food cupboard,18,Sugar & home baking,25,Baking & dessert mixes,11,1019804,Custard & whipped desserts,12.0,1019801.0
+941,Food cupboard,18,Sugar & home baking,25,Baking & dessert mixes,11,1019804,Jelly & gelatin,13.0,1019802.0
+942,Food cupboard,18,Sugar & home baking,25,Baking & dessert mixes,11,1019804,Savoury & pastry mixes,14.0,1019803.0
+943,Food cupboard,18,Sugar & home baking,25,Baking Essentials,11,1019805,,,
+944,Food cupboard,18,Sugar & home baking,25,Baking powder & raising agents,12,1019806,,,
+945,Food cupboard,18,Sugar & home baking,25,"Cake cases, candles & baking accessories",13,1019807,,,
+946,Food cupboard,18,Sugar & home baking,25,Colourings & flavourings,14,1019808,,,
+947,Food cupboard,18,Sugar & home baking,25,Cooking chocolate,15,1019809,,,
+948,Food cupboard,18,Sugar & home baking,25,"Decorations, toppings & fillings",16,1019810,,,
+949,Food cupboard,18,Sugar & home baking,25,Dried fruit & peel,17,1019811,,,
+950,Food cupboard,18,Sugar & home baking,25,Flour,19,1019821,All flour,10.0,1019812.0
+951,Food cupboard,18,Sugar & home baking,25,Flour,19,1019821,"Bread flour, mixes & yeast",11.0,1019813.0
+952,Food cupboard,18,Sugar & home baking,25,Flour,19,1019821,Cornflour & thickeners,12.0,1019814.0
+953,Food cupboard,18,Sugar & home baking,25,Flour,19,1019821,Flour,13.0,1019815.0
+954,Food cupboard,18,Sugar & home baking,25,Flour,19,1019821,Gluten free,14.0,1019816.0
+955,Food cupboard,18,Sugar & home baking,25,Flour,19,1019821,Organic,15.0,1019817.0
+956,Food cupboard,18,Sugar & home baking,25,Flour,19,1019821,Plain,16.0,1019818.0
+957,Food cupboard,18,Sugar & home baking,25,Flour,19,1019821,Self raising,17.0,1019819.0
+958,Food cupboard,18,Sugar & home baking,25,Flour,19,1019821,Wholemeal & granary,18.0,1019820.0
+959,Food cupboard,18,Sugar & home baking,25,Freefrom baking,19,1019822,,,
+960,Food cupboard,18,Sugar & home baking,25,Nuts & seeds,20,1019823,,,
+961,Food cupboard,18,Sugar & home baking,25,Special offers,21,1019824,,,
+962,Food cupboard,18,Sugar & home baking,25,"Sugar, syrups & sweeteners",23,1019835,Brown & demerara sugar,10.0,1019825.0
+963,Food cupboard,18,Sugar & home baking,25,"Sugar, syrups & sweeteners",23,1019835,Caster sugar,11.0,1019826.0
+964,Food cupboard,18,Sugar & home baking,25,"Sugar, syrups & sweeteners",23,1019835,Granulated sugar,12.0,1019827.0
+965,Food cupboard,18,Sugar & home baking,25,"Sugar, syrups & sweeteners",23,1019835,Honey,13.0,1019828.0
+966,Food cupboard,18,Sugar & home baking,25,"Sugar, syrups & sweeteners",23,1019835,Icing sugar,14.0,1019829.0
+967,Food cupboard,18,Sugar & home baking,25,"Sugar, syrups & sweeteners",23,1019835,Low calorie,15.0,1019830.0
+968,Food cupboard,18,Sugar & home baking,25,"Sugar, syrups & sweeteners",23,1019835,Natural sweeteners,16.0,1019831.0
+969,Food cupboard,18,Sugar & home baking,25,"Sugar, syrups & sweeteners",23,1019835,Preserve sugar,17.0,1019832.0
+970,Food cupboard,18,Sugar & home baking,25,"Sugar, syrups & sweeteners",23,1019835,Sweeteners,18.0,1019833.0
+971,Food cupboard,18,Sugar & home baking,25,"Sugar, syrups & sweeteners",23,1019835,Syrups,19.0,1019834.0
+972,Food cupboard,18,Sugar & home baking,25,Wholefood powders & ingredients,23,1019836,,,
+973,Food cupboard,18,"Table sauces, dressings & condiments",26,BBQ sauce & marinades,10,1019838,,,
+974,Food cupboard,18,"Table sauces, dressings & condiments",26,Brown sauce,11,1019839,,,
+975,Food cupboard,18,"Table sauces, dressings & condiments",26,Chilli & hot sauce,12,1019840,,,
+976,Food cupboard,18,"Table sauces, dressings & condiments",26,"Chutneys, pickle & relishes",13,1019841,,,
+977,Food cupboard,18,"Table sauces, dressings & condiments",26,Condiments,14,1019842,,,
+978,Food cupboard,18,"Table sauces, dressings & condiments",26,Mustard,15,1019843,,,
+979,Food cupboard,18,"Table sauces, dressings & condiments",26,Salad cream & mayonnaise,16,1019844,,,
+980,Food cupboard,18,"Table sauces, dressings & condiments",26,Salad dressings,17,1019845,,,
+981,Food cupboard,18,"Table sauces, dressings & condiments",26,Special offers,18,1019846,,,
+982,Food cupboard,18,"Table sauces, dressings & condiments",26,Tomato ketchup,19,1019847,,,
+983,Food cupboard,18,"Table sauces, dressings & condiments",26,Vinegar,20,1019848,,,
+984,Food cupboard,18,"Table sauces, dressings & condiments",26,Worcester & soy sauce,21,1019849,,,
+985,Food cupboard,18,"Tea, coffee & hot drinks",27,Coffee,10,1019851,,,
+986,Food cupboard,18,"Tea, coffee & hot drinks",27,Coffee machine pods,12,1019857,Dolce Gusto compatible,10.0,1019852.0
+987,Food cupboard,18,"Tea, coffee & hot drinks",27,Coffee machine pods,12,1019857,Lavazza Modo Mio compatible,11.0,1019853.0
+988,Food cupboard,18,"Tea, coffee & hot drinks",27,Coffee machine pods,12,1019857,Nespresso compatible,12.0,1019854.0
+989,Food cupboard,18,"Tea, coffee & hot drinks",27,Coffee machine pods,12,1019857,Senseo compatible,13.0,1019855.0
+990,Food cupboard,18,"Tea, coffee & hot drinks",27,Coffee machine pods,12,1019857,Tassimo compatible,14.0,1019856.0
+991,Food cupboard,18,"Tea, coffee & hot drinks",27,Hot chocolate & milky drinks,12,1019858,,,
+992,Food cupboard,18,"Tea, coffee & hot drinks",27,Special offers,13,1019859,,,
+993,Food cupboard,18,"Tea, coffee & hot drinks",27,Tea,15,1019868,Decaf & Redbush tea,10.0,1019861.0
+994,Food cupboard,18,"Tea, coffee & hot drinks",27,Tea,15,1019868,Everyday tea,11.0,1019862.0
+995,Food cupboard,18,"Tea, coffee & hot drinks",27,Tea,15,1019868,Fruit & Herbal tea,12.0,1019863.0
+996,Food cupboard,18,"Tea, coffee & hot drinks",27,Tea,15,1019868,Green tea,13.0,1019864.0
+997,Food cupboard,18,"Tea, coffee & hot drinks",27,Tea,15,1019868,Loose tea,14.0,1019865.0
+998,Food cupboard,18,"Tea, coffee & hot drinks",27,Tea,15,1019868,Speciality tea,15.0,1019866.0
+999,Food cupboard,18,"Tea, coffee & hot drinks",27,Tea,15,1019868,Whole leaf tea,16.0,1019867.0
+1000,Food cupboard,18,World Foods,28,African & Caribbean,10,1019870,,,
+1001,Food cupboard,18,World Foods,28,American,11,1019871,,,
+1002,Food cupboard,18,World Foods,28,Asian,12,1019872,,,
+1003,Food cupboard,18,World Foods,28,Bigger packs,13,1019873,,,
+1004,Food cupboard,18,World Foods,28,Eastern European,14,1019874,,,
+1005,Food cupboard,18,World Foods,28,Irish,15,1019875,,,
+1006,Food cupboard,18,World Foods,28,Kosher,16,1019876,,,
+1007,Food cupboard,18,World Foods,28,Regional favourites,17,1019878,,,
+1008,Food cupboard,18,World Foods,28,South & South-East Asian,18,1019879,,,
+1009,Food cupboard,18,World Foods,28,Special offers,19,1019880,,,
+1010,Frozen,19,"Chips, potatoes & rice",10,Chips & wedges,11,1019887,All chips & wedges,10.0,1019884.0
+1011,Frozen,19,"Chips, potatoes & rice",10,Chips & wedges,11,1019887,Chips & fries,11.0,1019885.0
+1012,Frozen,19,"Chips, potatoes & rice",10,Chips & wedges,11,1019887,Wedges,12.0,1019886.0
+1013,Frozen,19,"Chips, potatoes & rice",10,Jackets & mashed potato,11,1019888,,,
+1014,Frozen,19,"Chips, potatoes & rice",10,Onion rings,12,1019890,,,
+1015,Frozen,19,"Chips, potatoes & rice",10,Rice,13,1019891,,,
+1016,Frozen,19,"Chips, potatoes & rice",10,Roast potatoes,14,1019892,,,
+1017,Frozen,19,"Chips, potatoes & rice",10,Sweet potatoes,15,1019893,,,
+1018,Frozen,19,"Chips, potatoes & rice",10,"Waffles, hashbrowns & croquettes",16,1019894,,,
+1019,Frozen,19,Desserts & pastry,11,All,10,1019896,,,
+1020,Frozen,19,Desserts & pastry,11,Cakes & cheesecakes,11,1019897,,,
+1021,Frozen,19,Desserts & pastry,11,Meringues & roulades,12,1019898,,,
+1022,Frozen,19,Desserts & pastry,11,Pies & pastry,13,1019899,,,
+1023,Frozen,19,Desserts & pastry,11,Special offers,14,1019900,,,
+1024,Frozen,19,Desserts & pastry,11,"Sponges, crumbles & tarts",15,1019901,,,
+1025,Frozen,19,Fish & seafood,12,All,10,1019911,,,
+1026,Frozen,19,Fish & seafood,12,Battered fish,11,1019912,,,
+1027,Frozen,19,Fish & seafood,12,Breaded fish,12,1019913,,,
+1028,Frozen,19,Fish & seafood,12,Cod,13,1019914,,,
+1029,Frozen,19,Fish & seafood,12,Fish cakes,14,1019915,,,
+1030,Frozen,19,Fish & seafood,12,Fish fillets,15,1019916,,,
+1031,Frozen,19,Fish & seafood,12,Fish fingers,16,1019917,,,
+1032,Frozen,19,Fish & seafood,12,Fish pies & meals,17,1019918,,,
+1033,Frozen,19,Fish & seafood,12,Flavoured fish,18,1019919,,,
+1034,Frozen,19,Fish & seafood,12,Prawns & seafood,19,1019920,,,
+1035,Frozen,19,Fish & seafood,12,Salmon,20,1019921,,,
+1036,Frozen,19,Fish & seafood,12,Scampi,21,1019922,,,
+1037,Frozen,19,Fish & seafood,12,Special offers,22,1019923,,,
+1038,Frozen,19,Freefrom,13,All,10,1019903,,,
+1039,Frozen,19,Freefrom,13,Desserts,11,1019904,,,
+1040,Frozen,19,Freefrom,13,"Meat, fish & poultry",12,1019905,,,
+1041,Frozen,19,Freefrom,13,"Pies, pastry & yorkshire puddings",13,1019906,,,
+1042,Frozen,19,Freefrom,13,Pizza & bread,14,1019907,,,
+1043,Frozen,19,Freefrom,13,Ready meals,15,1019908,,,
+1044,Frozen,19,"Fruit, vegetables & herbs",15,All vegetables,10,1019925,,,
+1045,Frozen,19,"Fruit, vegetables & herbs",15,"Broccoli, cauliflower, sprouts & carrots",11,1019926,,,
+1046,Frozen,19,"Fruit, vegetables & herbs",15,Fruit,12,1019927,,,
+1047,Frozen,19,"Fruit, vegetables & herbs",15,Mixed & prepared vegetables,13,1019928,,,
+1048,Frozen,19,"Fruit, vegetables & herbs",15,"Onions, peppers & herbs",14,1019929,,,
+1049,Frozen,19,"Fruit, vegetables & herbs",15,"Peas, beans & sweetcorn",15,1019930,,,
+1050,Frozen,19,"Fruit, vegetables & herbs",15,Rice & pasta mixes,16,1019931,,,
+1051,Frozen,19,"Fruit, vegetables & herbs",15,Roast potatoes & parsnips,17,1019932,,,
+1052,Frozen,19,"Fruit, vegetables & herbs",15,Smoothie mixes,18,1019933,,,
+1053,Frozen,19,Ice cream & ice,16,All ice creams,10,1019935,,,
+1054,Frozen,19,Ice cream & ice,16,Dietary & lifestyle,11,1019937,,,
+1055,Frozen,19,Ice cream & ice,16,Frozen yoghurt & sorbet,12,1019938,,,
+1056,Frozen,19,Ice cream & ice,16,Handheld ice cream & lollies,13,1019939,,,
+1057,Frozen,19,Ice cream & ice,16,Ice,14,1019940,,,
+1058,Frozen,19,Ice cream & ice,16,Ice cream tubs,15,1019941,,,
+1059,Frozen,19,Ice cream & ice,16,Special offers,16,1019942,,,
+1060,Frozen,19,Meat & poultry,18,"Beef, pork & lamb",11,1019956,"Diced, minced & meatballs",10.0,1019953.0
+1061,Frozen,19,Meat & poultry,18,"Beef, pork & lamb",11,1019956,"Prepared beef, pork & lamb",11.0,1019954.0
+1062,Frozen,19,Meat & poultry,18,"Beef, pork & lamb",11,1019956,Roasting joints,12.0,1019955.0
+1063,Frozen,19,Meat & poultry,18,Burgers,11,1019957,,,
+1064,Frozen,19,Meat & poultry,18,Chicken & turkey,13,1019964,All,10.0,1019958.0
+1065,Frozen,19,Meat & poultry,18,Chicken & turkey,13,1019964,"Breaded, nuggets & burgers",11.0,1019959.0
+1066,Frozen,19,Meat & poultry,18,Chicken & turkey,13,1019964,"Breasts, portions & thighs",12.0,1019960.0
+1067,Frozen,19,Meat & poultry,18,Chicken & turkey,13,1019964,Chargrills,13.0,1019961.0
+1068,Frozen,19,Meat & poultry,18,Chicken & turkey,13,1019964,Southern fried & spicy,14.0,1019962.0
+1069,Frozen,19,Meat & poultry,18,Chicken & turkey,13,1019964,Whole bird & crowns,15.0,1019963.0
+1070,Frozen,19,Meat & poultry,18,Sausages & bacon,13,1019965,,,
+1071,Frozen,19,Pizza & garlic bread,19,All pizza & garlic bread,10,1019967,,,
+1072,Frozen,19,Pizza & garlic bread,19,Deep pan,11,1019968,,,
+1073,Frozen,19,Pizza & garlic bread,19,Garlic bread,12,1019969,,,
+1074,Frozen,19,Pizza & garlic bread,19,Snacking,13,1019970,,,
+1075,Frozen,19,Pizza & garlic bread,19,Special offers,14,1019971,,,
+1076,Frozen,19,Pizza & garlic bread,19,Takeaway,15,1019972,,,
+1077,Frozen,19,Pizza & garlic bread,19,Thin crust,16,1019973,,,
+1078,Frozen,19,"Ready meals, pies & party food",20,All ready meals,10,1019975,,,
+1079,Frozen,19,"Ready meals, pies & party food",20,Chinese & Thai,11,1019976,,,
+1080,Frozen,19,"Ready meals, pies & party food",20,Diet & Freefrom,12,1019977,,,
+1081,Frozen,19,"Ready meals, pies & party food",20,Fish,13,1019978,,,
+1082,Frozen,19,"Ready meals, pies & party food",20,Indian,14,1019979,,,
+1083,Frozen,19,"Ready meals, pies & party food",20,Italian,15,1019980,,,
+1084,Frozen,19,"Ready meals, pies & party food",20,Kid's meals,16,1019981,,,
+1085,Frozen,19,"Ready meals, pies & party food",20,Mexican & mediterranean,17,1019982,,,
+1086,Frozen,19,"Ready meals, pies & party food",20,Party food,18,1019983,,,
+1087,Frozen,19,"Ready meals, pies & party food",20,Pies & slices,19,1019984,,,
+1088,Frozen,19,"Ready meals, pies & party food",20,Traditional,20,1019985,,,
+1089,Frozen,19,Vegetarian & meat free,23,All vegetarian,10,1019989,,,
+1090,Frozen,19,Vegetarian & meat free,23,Fillets & pieces,11,1019990,,,
+1091,Frozen,19,Vegetarian & meat free,23,"Grills, bakes & nut roasts",12,1019991,,,
+1092,Frozen,19,Vegetarian & meat free,23,Meat free,13,1019993,,,
+1093,Frozen,19,Vegetarian & meat free,23,Mince & meatballs,14,1019994,,,
+1094,Frozen,19,Vegetarian & meat free,23,"Ready meals, pies & pastries",15,1019996,,,
+1095,Frozen,19,Vegetarian & meat free,23,"Sausages, burgers & bacon",16,1019997,,,
+1096,Frozen,19,Vegetarian & meat free,23,Special offers,17,1019998,,,
+1097,Fruit & vegetables,20,Fresh fruit,11,All fruit,10,1020006,,,
+1098,Fruit & vegetables,20,Fresh fruit,11,Apples,11,1034099,,,
+1099,Fruit & vegetables,20,Fresh fruit,11,Bananas & grapes,12,1020008,,,
+1100,Fruit & vegetables,20,Fresh fruit,11,"Berries, cherries & currants",13,1020009,,,
+1101,Fruit & vegetables,20,Fresh fruit,11,Citrus fruits,14,1020010,,,
+1102,Fruit & vegetables,20,Fresh fruit,11,"Dates, figs & nuts",15,1020011,,,
+1103,Fruit & vegetables,20,Fresh fruit,11,Kiwi & pineapple,16,1020012,,,
+1104,Fruit & vegetables,20,Fresh fruit,11,Melon & mango,17,1020013,,,
+1105,Fruit & vegetables,20,Fresh fruit,11,"Nectarines, plums, apricots & peaches",18,1020014,,,
+1106,Fruit & vegetables,20,Fresh fruit,11,Organic fruit,19,1020015,,,
+1107,Fruit & vegetables,20,Fresh fruit,11,"Papaya, pomegranate & exotic fruit",20,1020016,,,
+1108,Fruit & vegetables,20,Fresh fruit,11,Pears,21,1034100,,,
+1109,Fruit & vegetables,20,Fresh fruit,11,Ready to eat fruit,22,1020017,,,
+1110,Fruit & vegetables,20,Fresh fruit,11,Rhubarb,23,1034101,,,
+1111,Fruit & vegetables,20,Fresh fruit,11,Ripe & ready,24,1020018,,,
+1112,Fruit & vegetables,20,Fresh fruit,11,Special offers,25,1020019,,,
+1113,Fruit & vegetables,20,Fresh herbs & ingredients,12,Afro-Caribbean ingredients,10,1020021,,,
+1114,Fruit & vegetables,20,Fresh herbs & ingredients,12,All fresh herbs & ingredients,11,1020022,,,
+1115,Fruit & vegetables,20,Fresh herbs & ingredients,12,Asian ingredients,12,1020023,,,
+1116,Fruit & vegetables,20,Fresh herbs & ingredients,12,Fresh & pot herbs,13,1020024,,,
+1117,Fruit & vegetables,20,Fresh herbs & ingredients,12,Indian ingredients,14,1020025,,,
+1118,Fruit & vegetables,20,Fresh herbs & ingredients,12,Mediterranean ingredients,15,1020026,,,
+1119,Fruit & vegetables,20,Fresh salad,13,All salads,10,1020028,,,
+1120,Fruit & vegetables,20,Fresh salad,13,Avocados,11,1020029,,,
+1121,Fruit & vegetables,20,Fresh salad,13,Celery,12,1034103,,,
+1122,Fruit & vegetables,20,Fresh salad,13,Coleslaw and salad pots,13,1020030,,,
+1123,Fruit & vegetables,20,Fresh salad,13,Cucumber,14,1034102,,,
+1124,Fruit & vegetables,20,Fresh salad,13,Lettuce,15,1020032,,,
+1125,Fruit & vegetables,20,Fresh salad,13,Peppers,16,1020033,,,
+1126,Fruit & vegetables,20,Fresh salad,13,Salad bags,17,1020034,,,
+1127,Fruit & vegetables,20,Fresh salad,13,Salad bowls,18,1020035,,,
+1128,Fruit & vegetables,20,Fresh salad,13,Salad dressings & croutons,19,1020036,,,
+1129,Fruit & vegetables,20,Fresh salad,13,Special offers,20,1020037,,,
+1130,Fruit & vegetables,20,Fresh salad,13,"Spring onions, radish & beetroot",21,1020038,,,
+1131,Fruit & vegetables,20,Fresh salad,13,Tomatoes,22,1020039,,,
+1132,Fruit & vegetables,20,Fresh vegetables,14,All vegetables,10,1020041,,,
+1133,Fruit & vegetables,20,Fresh vegetables,14,Avocados & salad vegetables,11,1020042,,,
+1134,Fruit & vegetables,20,Fresh vegetables,14,Broccoli and Cauliflower,12,1034109,,,
+1135,Fruit & vegetables,20,Fresh vegetables,14,Cabbage,13,1034104,,,
+1136,Fruit & vegetables,20,Fresh vegetables,14,Carrots,14,1034107,,,
+1137,Fruit & vegetables,20,Fresh vegetables,14,"Courgette, aubergine & squash",15,1020045,,,
+1138,Fruit & vegetables,20,Fresh vegetables,14,Exotic vegetables,16,1020046,,,
+1139,Fruit & vegetables,20,Fresh vegetables,14,"Garlic, chillies, herbs & ingredients",17,1020047,,,
+1140,Fruit & vegetables,20,Fresh vegetables,14,Leeks,18,1034108,,,
+1141,Fruit & vegetables,20,Fresh vegetables,14,Mushrooms,19,1034111,,,
+1142,Fruit & vegetables,20,Fresh vegetables,14,Onions,20,1034106,,,
+1143,Fruit & vegetables,20,Fresh vegetables,14,Parsnips,21,1034105,,,
+1144,Fruit & vegetables,20,Fresh vegetables,14,"Peas, beans, sweetcorn & asparagus",22,1020049,,,
+1145,Fruit & vegetables,20,Fresh vegetables,14,Peppers,23,1034110,,,
+1146,Fruit & vegetables,20,Fresh vegetables,14,Potatoes & sweet potatoes,24,1020051,,,
+1147,Fruit & vegetables,20,Fresh vegetables,14,Prepared vegetables,25,1020052,,,
+1148,Fruit & vegetables,20,Fresh vegetables,14,Root Vegetables,26,1034112,,,
+1149,Fruit & vegetables,20,Fresh vegetables,14,Special offers,27,1020053,,,
+1150,Fruit & vegetables,20,Fresh vegetables,14,"Spinach, greens & kale",28,1020054,,,
+1151,Fruit & vegetables,20,Fresh vegetables,14,"Stir fry vegetables, sauce & noodles",29,1020055,,,
+1152,Fruit & vegetables,20,Fresh vegetables,14,Tomatoes,30,1020056,,,
+1153,Fruit & vegetables,20,Frozen fruit & vegetables,15,All frozen vegetables,10,1020058,,,
+1154,Fruit & vegetables,20,Frozen fruit & vegetables,15,"Frozen broccoli, cauliflower, sprouts & carrots",11,1020059,,,
+1155,Fruit & vegetables,20,Frozen fruit & vegetables,15,Frozen fruit,12,1020060,,,
+1156,Fruit & vegetables,20,Frozen fruit & vegetables,15,Frozen mixed & prepared vegetables,13,1020061,,,
+1157,Fruit & vegetables,20,Frozen fruit & vegetables,15,"Frozen onions, peppers & herbs",14,1020062,,,
+1158,Fruit & vegetables,20,Frozen fruit & vegetables,15,"Frozen peas, beans & sweetcorn",15,1020063,,,
+1159,Fruit & vegetables,20,Frozen fruit & vegetables,15,Frozen roast potatoes & parsnips,16,1020064,,,
+1160,Fruit & vegetables,20,Frozen fruit & vegetables,15,Frozen smoothie mixes,17,1020065,,,
+1161,Fruit & vegetables,20,Frozen fruit & vegetables,15,Special offers,18,1020066,,,
+1162,Fruit & vegetables,20,"Prepared fruit, veg & salad",19,"All prepared fruit, veg & salad",10,1020072,,,
+1163,Fruit & vegetables,20,"Prepared fruit, veg & salad",19,Carb alternatives,11,1020073,,,
+1164,Fruit & vegetables,20,"Prepared fruit, veg & salad",19,Ready to cook vegetables,12,1020074,,,
+1165,Fruit & vegetables,20,"Prepared fruit, veg & salad",19,Ready to eat fruit,13,1020075,,,
+1166,Fruit & vegetables,20,"Prepared fruit, veg & salad",19,Ready to eat salad,14,1020076,,,
+1167,Fruit & vegetables,20,"Prepared fruit, veg & salad",19,Special offers,15,1020077,,,
+1168,Fruit & vegetables,20,"Prepared fruit, veg & salad",19,"Stir fry vegetables, sauce & noodles",16,1020078,,,
+1169,Halloween,21,Cakes & baking,11,Baking essentials,10,1043390,,,
+1170,Halloween,21,Cakes & baking,11,Cakes & treats,11,1043389,,,
+1171,Halloween,21,"Costumes, accessories & makeup",12,Costumes & accessories,10,1043392,,,
+1172,Halloween,21,"Costumes, accessories & makeup",12,Makeup,11,1043393,,,
+1173,Halloween,21,Halloween party,15,Decorations,10,1043401,,,
+1174,Halloween,21,Halloween party,15,Drinks & cocktails,11,1043400,,,
+1175,Halloween,21,Halloween party,15,Party food,12,1043386,,,
+1176,Halloween,21,Halloween party,15,Snacks & treats,13,1043385,,,
+1177,Halloween,21,Trick or treat,18,Buckets & accessories,10,1043383,,,
+1178,Halloween,21,Trick or treat,18,Chocolate & sweets,11,1043382,,,
+1179,Halloween,21,Trick or treat,18,"Costumes, accessories & makeup",13,1043397,Costumes & accessories,10.0,1043398.0
+1180,Halloween,21,Trick or treat,18,"Costumes, accessories & makeup",13,1043397,Makeup,11.0,1043399.0
+1181,Homeware & outdoor,22,Batteries,10,9V batteries,10,1020083,,,
+1182,Homeware & outdoor,22,Batteries,10,AA batteries,11,1020084,,,
+1183,Homeware & outdoor,22,Batteries,10,AAA batteries,12,1020085,,,
+1184,Homeware & outdoor,22,Batteries,10,All batteries,13,1020086,,,
+1185,Homeware & outdoor,22,Batteries,10,C & D batteries,14,1020087,,,
+1186,Homeware & outdoor,22,Batteries,10,Rechargeable batteries & chargers,15,1020088,,,
+1187,Homeware & outdoor,22,Batteries,10,Special offers,16,1020089,,,
+1188,Homeware & outdoor,22,Batteries,10,Speciality batteries,17,1020090,,,
+1189,Homeware & outdoor,22,Home & office,15,Bathroom accessories,10,1020096,,,
+1190,Homeware & outdoor,22,Home & office,15,Bedroom,11,1020097,,,
+1191,Homeware & outdoor,22,Home & office,15,Books,12,1020098,,,
+1192,Homeware & outdoor,22,Home & office,15,Calendars & diaries,13,1020099,,,
+1193,Homeware & outdoor,22,Home & office,15,Candles & home fragrance,14,1020100,,,
+1194,Homeware & outdoor,22,Home & office,15,DIY & car care,16,1020104,Car care,10.0,1020101.0
+1195,Homeware & outdoor,22,Home & office,15,DIY & car care,16,1020104,DIY,11.0,1020102.0
+1196,Homeware & outdoor,22,Home & office,15,DIY & car care,16,1020104,Light bulbs,12.0,1020103.0
+1197,Homeware & outdoor,22,Home & office,15,Household electricals,16,1020105,,,
+1198,Homeware & outdoor,22,Home & office,15,Lighting,17,1020106,,,
+1199,Homeware & outdoor,22,Home & office,15,Living room,18,1020107,,,
+1200,Homeware & outdoor,22,Home & office,15,New,19,1020108,,,
+1201,Homeware & outdoor,22,Home & office,15,Special offers,20,1020109,,,
+1202,Homeware & outdoor,22,Home & office,15,Stationery & home office,22,1020119,Adhesives & tape,10.0,1020110.0
+1203,Homeware & outdoor,22,Home & office,15,Stationery & home office,22,1020119,All Stationery & home office,11.0,1020111.0
+1204,Homeware & outdoor,22,Home & office,15,Stationery & home office,22,1020119,Cards & gift bags,12.0,1020112.0
+1205,Homeware & outdoor,22,Home & office,15,Stationery & home office,22,1020119,Envelopes & stamps,13.0,1020113.0
+1206,Homeware & outdoor,22,Home & office,15,Stationery & home office,22,1020119,Paper & notebooks,14.0,1020114.0
+1207,Homeware & outdoor,22,Home & office,15,Stationery & home office,22,1020119,Pens & pencils,15.0,1020115.0
+1208,Homeware & outdoor,22,Home & office,15,Stationery & home office,22,1020119,Printer inks,16.0,1020116.0
+1209,Homeware & outdoor,22,Home & office,15,Stationery & home office,22,1020119,Stationery essentials,17.0,1020117.0
+1210,Homeware & outdoor,22,Home & office,15,Stationery & home office,22,1020119,"Stationery, home filing & storage",18.0,1020118.0
+1211,Homeware & outdoor,22,Home & office,15,Utility room,23,1020127,All utility room,10.0,1020120.0
+1212,Homeware & outdoor,22,Home & office,15,Utility room,23,1020127,Cleaning & tidying,11.0,1020121.0
+1213,Homeware & outdoor,22,Home & office,15,Utility room,23,1020127,Doormats,12.0,1020122.0
+1214,Homeware & outdoor,22,Home & office,15,Utility room,23,1020127,Haberdashery,13.0,1020123.0
+1215,Homeware & outdoor,22,Home & office,15,Utility room,23,1020127,Ironing,14.0,1020124.0
+1216,Homeware & outdoor,22,Home & office,15,Utility room,23,1020127,Laundry room accessories,15.0,1020125.0
+1217,Homeware & outdoor,22,Home & office,15,Utility room,23,1020127,Storage,16.0,1020126.0
+1218,Homeware & outdoor,22,Kitchen & dining,16,Bakeware,11,1020133,All bakeware,10.0,1020129.0
+1219,Homeware & outdoor,22,Kitchen & dining,16,Bakeware,11,1020133,Baking gadgets & utensils,11.0,1020130.0
+1220,Homeware & outdoor,22,Kitchen & dining,16,Bakeware,11,1020133,Baking trays & tins,12.0,1020131.0
+1221,Homeware & outdoor,22,Kitchen & dining,16,Bakeware,11,1020133,Mixing & measuring,13.0,1020132.0
+1222,Homeware & outdoor,22,Kitchen & dining,16,Bar accessories,11,1020134,,,
+1223,Homeware & outdoor,22,Kitchen & dining,16,Cookware,13,1020141,All cookware,10.0,1020135.0
+1224,Homeware & outdoor,22,Kitchen & dining,16,Cookware,13,1020141,Casserole pans & stew pots,11.0,1020136.0
+1225,Homeware & outdoor,22,Kitchen & dining,16,Cookware,13,1020141,Chopping boards,12.0,1020137.0
+1226,Homeware & outdoor,22,Kitchen & dining,16,Cookware,13,1020141,Mixing & measuring,13.0,1020138.0
+1227,Homeware & outdoor,22,Kitchen & dining,16,Cookware,13,1020141,Oven trays & roasting tins,14.0,1020139.0
+1228,Homeware & outdoor,22,Kitchen & dining,16,Cookware,13,1020141,Pots & pans,15.0,1020140.0
+1229,Homeware & outdoor,22,Kitchen & dining,16,Food storage,14,1020148,All food storage,10.0,1034049.0
+1230,Homeware & outdoor,22,Kitchen & dining,16,Food storage,14,1020148,Food containers,11.0,1020142.0
+1231,Homeware & outdoor,22,Kitchen & dining,16,Food storage,14,1020148,Food storage,12.0,1020143.0
+1232,Homeware & outdoor,22,Kitchen & dining,16,Food storage,14,1020148,"Glass, storage & jars",13.0,1020144.0
+1233,Homeware & outdoor,22,Kitchen & dining,16,Food storage,14,1020148,Lunch bags,14.0,1020145.0
+1234,Homeware & outdoor,22,Kitchen & dining,16,Food storage,14,1020148,Lunch boxes,15.0,1020146.0
+1235,Homeware & outdoor,22,Kitchen & dining,16,Food storage,14,1020148,"Travel mugs, thermos flasks & bottles",16.0,1020147.0
+1236,Homeware & outdoor,22,Kitchen & dining,16,Gadgets & utensils,15,1020155,All gadgets & utensils,10.0,1020149.0
+1237,Homeware & outdoor,22,Kitchen & dining,16,Gadgets & utensils,15,1020155,Cooking utensils,11.0,1020150.0
+1238,Homeware & outdoor,22,Kitchen & dining,16,Gadgets & utensils,15,1020155,Graters & slicers,12.0,1020151.0
+1239,Homeware & outdoor,22,Kitchen & dining,16,Gadgets & utensils,15,1020155,Kitchen scales & measuring jugs,13.0,1020152.0
+1240,Homeware & outdoor,22,Kitchen & dining,16,Gadgets & utensils,15,1020155,Peelers & can openers,14.0,1020153.0
+1241,Homeware & outdoor,22,Kitchen & dining,16,Gadgets & utensils,15,1020155,Sieves & colanders,15.0,1020154.0
+1242,Homeware & outdoor,22,Kitchen & dining,16,Kitchen appliances,16,1020162,All kitchen appliances,10.0,1020156.0
+1243,Homeware & outdoor,22,Kitchen & dining,16,Kitchen appliances,16,1020162,"Blenders, mixers & food processors",11.0,1020157.0
+1244,Homeware & outdoor,22,Kitchen & dining,16,Kitchen appliances,16,1020162,Coffee machines,12.0,1020158.0
+1245,Homeware & outdoor,22,Kitchen & dining,16,Kitchen appliances,16,1020162,Cooking appliances,13.0,1020159.0
+1246,Homeware & outdoor,22,Kitchen & dining,16,Kitchen appliances,16,1020162,Kettles,14.0,1020160.0
+1247,Homeware & outdoor,22,Kitchen & dining,16,Kitchen appliances,16,1020162,Toasters,15.0,1020161.0
+1248,Homeware & outdoor,22,Kitchen & dining,16,Kitchen towels & oven gloves,16,1020163,,,
+1249,Homeware & outdoor,22,Kitchen & dining,16,New,17,1020164,,,
+1250,Homeware & outdoor,22,Kitchen & dining,16,Special offers,18,1020165,,,
+1251,Homeware & outdoor,22,Kitchen & dining,16,Tableware,20,1020175,All tableware,10.0,1020166.0
+1252,Homeware & outdoor,22,Kitchen & dining,16,Tableware,20,1020175,Cutlery,11.0,1020167.0
+1253,Homeware & outdoor,22,Kitchen & dining,16,Tableware,20,1020175,Dinnerware,12.0,1020168.0
+1254,Homeware & outdoor,22,Kitchen & dining,16,Tableware,20,1020175,Glassware,13.0,1020169.0
+1255,Homeware & outdoor,22,Kitchen & dining,16,Tableware,20,1020175,"Mugs, cafetieres & teapots",14.0,1020170.0
+1256,Homeware & outdoor,22,Kitchen & dining,16,Tableware,20,1020175,Oven tableware,15.0,1020171.0
+1257,Homeware & outdoor,22,Kitchen & dining,16,Tableware,20,1020175,"Placemats, coasters & tablecloths",16.0,1020172.0
+1258,Homeware & outdoor,22,Kitchen & dining,16,Tableware,20,1020175,Salt & pepper mills,17.0,1020173.0
+1259,Homeware & outdoor,22,Kitchen & dining,16,Tableware,20,1020175,Serveware,18.0,1020174.0
+1260,Homeware & outdoor,22,Kitchen & dining,16,Water filters & cartridges,20,1020176,,,
+1261,Homeware & outdoor,22,Newsagent & tobacconist,17,Cigarettes,10,1020178,,,
+1262,Homeware & outdoor,22,Newsagent & tobacconist,17,Cigars and pipe tobacco,11,1020179,,,
+1263,Homeware & outdoor,22,Newsagent & tobacconist,17,Heat not burn tobacco,12,1020180,,,
+1264,Homeware & outdoor,22,Newsagent & tobacconist,17,Magazines,13,1020181,,,
+1265,Homeware & outdoor,22,Newsagent & tobacconist,17,"Matches, lighters & accessories",14,1020182,,,
+1266,Homeware & outdoor,22,Newsagent & tobacconist,17,New,15,1020183,,,
+1267,Homeware & outdoor,22,Newsagent & tobacconist,17,Newspapers,17,1020187,Monday to Friday collections/deliveries,10.0,1020184.0
+1268,Homeware & outdoor,22,Newsagent & tobacconist,17,Newspapers,17,1020187,Saturday collections/deliveries,11.0,1020185.0
+1269,Homeware & outdoor,22,Newsagent & tobacconist,17,Newspapers,17,1020187,Sunday collections/deliveries,12.0,1020186.0
+1270,Homeware & outdoor,22,Newsagent & tobacconist,17,Roll your own,17,1020188,,,
+1271,Homeware & outdoor,22,Newsagent & tobacconist,17,Special offers,18,1020189,,,
+1272,Homeware & outdoor,22,Newsagent & tobacconist,17,Stamps,19,1020190,,,
+1273,Homeware & outdoor,22,Newsagent & tobacconist,17,TV listings,20,1020191,,,
+1274,Homeware & outdoor,22,Newsagent & tobacconist,17,Vaping & alternatives,21,1020192,,,
+1275,Homeware & outdoor,22,Party tableware,18,All party tableware,10,1020194,,,
+1276,Homeware & outdoor,22,Party tableware,18,Candles,11,1020195,,,
+1277,Homeware & outdoor,22,Party tableware,18,Kids party essentials,12,1020196,,,
+1278,Homeware & outdoor,22,Party tableware,18,Party decorations,13,1020197,,,
+1279,Homeware & outdoor,22,Party tableware,18,Party drinkware,14,1020198,,,
+1280,Homeware & outdoor,22,Party tableware,18,Party essentials,15,1020199,,,
+1281,Homeware & outdoor,22,Party tableware,18,Plates & bowls,16,1020200,,,
+1282,Homeware & outdoor,22,Party tableware,18,Special offers,17,1020201,,,
+1283,Homeware & outdoor,22,Party tableware,18,"Tableware, napkins & table covers",18,1020202,,,
+1284,Homeware & outdoor,22,Sports & leisure,20,Camping,10,1020205,,,
+1285,Homeware & outdoor,22,Sports & leisure,20,Home fitness & exercise equipment,11,1020206,,,
+1286,Homeware & outdoor,22,Sports & leisure,20,Luggage & backpacks,12,1020207,,,
+1287,Homeware & outdoor,22,Sports & leisure,20,Special offers,13,1034113,,,
+1288,Homeware & outdoor,22,Sports & leisure,20,Sports,14,1020208,,,
+1289,Homeware & outdoor,22,Sports & leisure,20,Swimming accessories,15,1020209,,,
+1290,Homeware & outdoor,22,Sports & leisure,20,Travel accessories,16,1020210,,,
+1291,Homeware & outdoor,22,Toys,21,All toys,10,1020212,,,
+1292,Homeware & outdoor,22,Toys,21,Arts & crafts,11,1020213,,,
+1293,Homeware & outdoor,22,Toys,21,Baby toys,12,1020214,,,
+1294,Homeware & outdoor,22,Toys,21,Dolls & action figures,13,1020215,,,
+1295,Homeware & outdoor,22,Toys,21,Essential extras,14,1020216,,,
+1296,Homeware & outdoor,22,Toys,21,Games & puzzles,15,1020217,,,
+1297,Homeware & outdoor,22,Toys,21,New,16,1020219,,,
+1298,Homeware & outdoor,22,Toys,21,Outdoor toys & garden games,17,1020220,,,
+1299,Homeware & outdoor,22,Toys,21,Playsets,18,1020221,,,
+1300,Homeware & outdoor,22,Toys,21,Pre-school toys,19,1020222,,,
+1301,Homeware & outdoor,22,Toys,21,Special offers,20,1020223,,,
+1302,Household,23,Air fresheners,10,Aerosol & room sprays,10,1020226,,,
+1303,Household,23,Air fresheners,10,All Aircare,11,1020227,,,
+1304,Household,23,Air fresheners,10,Automatic sprays,12,1020228,,,
+1305,Household,23,Air fresheners,10,Candles & tealights,13,1020229,,,
+1306,Household,23,Air fresheners,10,Car air fresheners,14,1020230,,,
+1307,Household,23,Air fresheners,10,Fabric refreshers,15,1020231,,,
+1308,Household,23,Air fresheners,10,Gels,16,1020232,,,
+1309,Household,23,Air fresheners,10,Plug-ins,17,1020233,,,
+1310,Household,23,Air fresheners,10,Reed diffusers,18,1020234,,,
+1311,Household,23,Air fresheners,10,Scents of the season,19,1020235,,,
+1312,Household,23,Air fresheners,10,Special offers,20,1020236,,,
+1313,Household,23,Cleaning products,12,All purpose cleaners,10,1034116,,,
+1314,Household,23,Cleaning products,12,Bathroom cleaners,11,1034119,,,
+1315,Household,23,Cleaning products,12,Bin bags,12,1034122,,,
+1316,Household,23,Cleaning products,12,Bleach & disinfectant,13,1034117,,,
+1317,Household,23,Cleaning products,12,"Brushes, mops & lint rollers",14,1020239,,,
+1318,Household,23,Cleaning products,12,Disposable cleaning wipes,15,1034120,,,
+1319,Household,23,Cleaning products,12,Eco friendly,16,1020240,,,
+1320,Household,23,Cleaning products,12,Floor & carpet cleaners,17,1034121,,,
+1321,Household,23,Cleaning products,12,Kitchen & oven cleaners,18,1020241,,,
+1322,Household,23,Cleaning products,12,Polishes & dusters,19,1034115,,,
+1323,Household,23,Cleaning products,12,"Rubber gloves, cloths, scourers & brushes",20,1034123,,,
+1324,Household,23,Cleaning products,12,Sink & drain unblockers,21,1020242,,,
+1325,Household,23,Cleaning products,12,Special offers,22,1020243,,,
+1326,Household,23,Cleaning products,12,Specialist cleaners,23,1020244,,,
+1327,Household,23,Cleaning products,12,Toilet cleaners & fresheners,24,1034118,,,
+1328,Household,23,Cleaning products,12,Window cleaners,25,1034114,,,
+1329,Household,23,Dishwasher & washing up,13,"Dishwasher cleaner, salt & rinse aid",10,1020246,,,
+1330,Household,23,Dishwasher & washing up,13,Dishwasher tablets,11,1020247,,,
+1331,Household,23,Dishwasher & washing up,13,"Rubber gloves, cloths, scourers & brushes",12,1020248,,,
+1332,Household,23,Dishwasher & washing up,13,Sainsbury's,13,1020249,,,
+1333,Household,23,Dishwasher & washing up,13,Special offers,14,1020250,,,
+1334,Household,23,Dishwasher & washing up,13,Washing up liquids,15,1020251,,,
+1335,Household,23,Household essentials,17,All essentials,10,1020256,,,
+1336,Household,23,Household essentials,17,Batteries & chargers,11,1020257,,,
+1337,Household,23,Household essentials,17,Bin bags,12,1020258,,,
+1338,Household,23,Household essentials,17,Electrical accessories,13,1020259,,,
+1339,Household,23,Household essentials,17,Insect & pest control,14,1020260,,,
+1340,Household,23,Household essentials,17,Light bulbs,15,1020261,,,
+1341,Household,23,Household essentials,17,Matches & firelighters,16,1020262,,,
+1342,Household,23,Household essentials,17,New,17,1020263,,,
+1343,Household,23,Household essentials,17,Sewing & clothing care,18,1020264,,,
+1344,Household,23,Household essentials,17,Shoe care,19,1020265,,,
+1345,Household,23,Household essentials,17,Special offers,20,1020266,,,
+1346,Household,23,Household essentials,17,Stationery & printer ink,21,1020267,,,
+1347,Household,23,Household essentials,17,Water filters & cartridges,22,1020268,,,
+1348,Household,23,Laundry,18,Drying & ironing,10,1020270,,,
+1349,Household,23,Laundry,18,Fabric conditioner & fabric fresheners,12,1020275,All fabric conditioner,10.0,1020271.0
+1350,Household,23,Laundry,18,Fabric conditioner & fabric fresheners,12,1020275,All fabric fresheners,11.0,1020272.0
+1351,Household,23,Laundry,18,Fabric conditioner & fabric fresheners,12,1020275,Fabric conditioner & fabric fresheners,12.0,1020273.0
+1352,Household,23,Laundry,18,Laundry aids & accessories,12,1020276,,,
+1353,Household,23,Laundry,18,Special offers,13,1020277,,,
+1354,Household,23,Laundry,18,Stain removers & whiteners,15,1020281,Stain removal,10.0,1020279.0
+1355,Household,23,Laundry,18,Stain removers & whiteners,15,1020281,Whiteners,11.0,1020280.0
+1356,Household,23,Laundry,18,Washing powder & liquids,16,1020288,All detergents & washing powder,10.0,1020282.0
+1357,Household,23,Laundry,18,Washing powder & liquids,16,1020288,Capsules,11.0,1020283.0
+1358,Household,23,Laundry,18,Washing powder & liquids,16,1020288,Liquids & gels,12.0,1020284.0
+1359,Household,23,Laundry,18,Washing powder & liquids,16,1020288,Tablets,13.0,1020286.0
+1360,Household,23,Laundry,18,Washing powder & liquids,16,1020288,Washing powder,14.0,1020287.0
+1361,Household,23,Newsagent & tobacconist,20,Cards & wrap,10,1020291,,,
+1362,Household,23,Newsagent & tobacconist,20,Cigarettes,11,1020292,,,
+1363,Household,23,Newsagent & tobacconist,20,Cigars and pipe tobacco,12,1020293,,,
+1364,Household,23,Newsagent & tobacconist,20,Heat not burn tobacco,13,1020294,,,
+1365,Household,23,Newsagent & tobacconist,20,Magazines,14,1020295,,,
+1366,Household,23,Newsagent & tobacconist,20,Menthol alternatives,15,1020296,,,
+1367,Household,23,Newsagent & tobacconist,20,Postage stamps,16,1020297,,,
+1368,Household,23,Newsagent & tobacconist,20,Roll your own,17,1020298,,,
+1369,Household,23,Newsagent & tobacconist,20,Special offers,18,1020299,,,
+1370,Household,23,Newsagent & tobacconist,20,Vaping & alternatives,19,1020300,,,
+1371,Household,23,Party tableware,21,All party tableware,10,1020302,,,
+1372,Household,23,Party tableware,21,Candles & cakes,11,1020303,,,
+1373,Household,23,Party tableware,21,Kids party essentials,12,1020304,,,
+1374,Household,23,Party tableware,21,Napkins & table covers,13,1020305,,,
+1375,Household,23,Party tableware,21,Party decorations,14,1020306,,,
+1376,Household,23,Party tableware,21,Party drinkware,15,1020307,,,
+1377,Household,23,Party tableware,21,Party essentials,16,1020308,,,
+1378,Household,23,Party tableware,21,Plates & bowls,17,1020309,,,
+1379,Household,23,Party tableware,21,Special offers,18,1020310,,,
+1380,Household,23,"Toilet roll, kitchen roll & tissues",23,Kitchen roll,10,1020313,,,
+1381,Household,23,"Toilet roll, kitchen roll & tissues",23,Special offers,11,1020314,,,
+1382,Household,23,"Toilet roll, kitchen roll & tissues",23,Tissues,12,1020315,,,
+1383,Household,23,"Toilet roll, kitchen roll & tissues",23,Toilet roll,14,1020321,All toilet roll,10.0,1020316.0
+1384,Household,23,"Toilet roll, kitchen roll & tissues",23,Toilet roll,14,1020321,Lotioned,11.0,1020317.0
+1385,Household,23,"Toilet roll, kitchen roll & tissues",23,Toilet roll,14,1020321,Moist,12.0,1020318.0
+1386,Household,23,"Toilet roll, kitchen roll & tissues",23,Toilet roll,14,1020321,Quilted,13.0,1020319.0
+1387,Household,23,"Toilet roll, kitchen roll & tissues",23,Toilet roll,14,1020321,Standard,14.0,1020320.0
+1388,Meat & fish,24,Bacon & sausages,10,Bacon,10,1020325,,,
+1389,Meat & fish,24,Bacon & sausages,10,Sausages,11,1020326,,,
+1390,Meat & fish,24,Beef,11,All beef,10,1020328,,,
+1391,Meat & fish,24,Beef,11,Beef mince,11,1020329,,,
+1392,Meat & fish,24,Beef,11,Beef roasting joints,12,1020330,,,
+1393,Meat & fish,24,Beef,11,Beef steak,13,1020331,,,
+1394,Meat & fish,24,Beef,11,Beef stews & casserole,14,1020332,,,
+1395,Meat & fish,24,Beef,11,"Burgers, meatballs & sausages",15,1020333,,,
+1396,Meat & fish,24,Beef,11,Just Cook & Slow Cooked,16,1020334,,,
+1397,Meat & fish,24,Chicken,12,All chicken,10,1020336,,,
+1398,Meat & fish,24,Chicken,12,Breaded chicken & kiev,11,1020337,,,
+1399,Meat & fish,24,Chicken,12,Chicken breast & fillet,12,1020338,,,
+1400,Meat & fish,24,Chicken,12,"Chicken burgers, mince & meatballs",13,1020339,,,
+1401,Meat & fish,24,Chicken,12,Chicken sausages,14,1020340,,,
+1402,Meat & fish,24,Chicken,12,"Chicken wings, thighs and drumsticks",15,1020341,,,
+1403,Meat & fish,24,Chicken,12,Cooked chicken,16,1020342,,,
+1404,Meat & fish,24,Chicken,12,Just Cook & Slow Cooked,17,1020343,,,
+1405,Meat & fish,24,Chicken,12,Whole birds,18,1020344,,,
+1406,Meat & fish,24,Fish & seafood,14,All fish & seafood,10,1020353,,,
+1407,Meat & fish,24,Fish & seafood,14,Cod & white fish,11,1020354,,,
+1408,Meat & fish,24,Fish & seafood,14,Fishcakes & breaded fish,12,1020355,,,
+1409,Meat & fish,24,Fish & seafood,14,Just Cook & Slow Cooked,13,1020356,,,
+1410,Meat & fish,24,Fish & seafood,14,"Mackerel, sardines & herring",14,1020357,,,
+1411,Meat & fish,24,Fish & seafood,14,Prawns & seafood,15,1020358,,,
+1412,Meat & fish,24,Fish & seafood,14,"Salmon, tuna & trout",16,1020360,,,
+1413,Meat & fish,24,Fish & seafood,14,Smoked salmon & smoked fish,17,1020361,,,
+1414,Meat & fish,24,Fish & seafood,14,Whole fish,18,1020362,,,
+1415,Meat & fish,24,"Ham, cooked meats & pate",15,"All ham, cooked meats & pâté",10,1020364,,,
+1416,Meat & fish,24,"Ham, cooked meats & pate",15,Continental meats & salami,11,1020365,,,
+1417,Meat & fish,24,"Ham, cooked meats & pate",15,Cooked chicken & turkey,12,1020366,,,
+1418,Meat & fish,24,"Ham, cooked meats & pate",15,Ham,13,1020367,,,
+1419,Meat & fish,24,"Ham, cooked meats & pate",15,Pâté,14,1020368,,,
+1420,Meat & fish,24,"Ham, cooked meats & pate",15,Snacking & cooked sausage,15,1020369,,,
+1421,Meat & fish,24,Lamb,17,All lamb,10,1020372,,,
+1422,Meat & fish,24,Lamb,17,Just Cook & Slow Cooked,11,1020373,,,
+1423,Meat & fish,24,Lamb,17,Lamb for frying & grilling,12,1020374,,,
+1424,Meat & fish,24,Lamb,17,Roast lamb joints,13,1020375,,,
+1425,Meat & fish,24,Pork & gammon,21,All pork & gammon,10,1020380,,,
+1426,Meat & fish,24,Pork & gammon,21,Just Cook & Slow Cooked,11,1020381,,,
+1427,Meat & fish,24,Pork & gammon,21,Pork & gammon for frying & grilling,12,1020382,,,
+1428,Meat & fish,24,Pork & gammon,21,Pork & gammon joints for roasting,13,1020383,,,
+1429,New Year's Eve,25,Dinner party,13,Desserts,10,1043848,,,
+1430,New Year's Eve,25,Dinner party,13,Mains,11,1043846,,,
+1431,New Year's Eve,25,Dinner party,13,Sides,12,1043847,,,
+1432,New Year's Eve,25,Dinner party,13,Starters,13,1043845,,,
+1433,New Year's Eve,25,Drinks,14,Beer & cider,10,1043839,,,
+1434,New Year's Eve,25,Drinks,14,Champagne & prosecco,11,1043836,,,
+1435,New Year's Eve,25,Drinks,14,Low and no alcohol,12,1043841,,,
+1436,New Year's Eve,25,Drinks,14,Soft drinks & mixers,13,1043840,,,
+1437,New Year's Eve,25,Drinks,14,Spirits & liqeuers,14,1043837,,,
+1438,New Year's Eve,25,Drinks,14,Wine,15,1043838,,,
+1439,New Year's Eve,25,Tableware & decorations,21,Household,10,1043854,,,
+1440,New Year's Eve,25,Tableware & decorations,21,Party decorations & flowers,11,1043851,,,
+1441,New Year's Eve,25,Tableware & decorations,21,Party drinkware,12,1043853,,,
+1442,New Year's Eve,25,Tableware & decorations,21,Tableware & napkins,13,1043852,,,
+1443,Pet,26,Cat & Kitten,10,Adult (1-6 years),11,1020396,Advanced nutrition cat food,10.0,1020389.0
+1444,Pet,26,Cat & Kitten,10,Adult (1-6 years),11,1020396,Cat cans & tins,11.0,1020390.0
+1445,Pet,26,Cat & Kitten,10,Adult (1-6 years),11,1020396,Cat pouches & trays,12.0,1020391.0
+1446,Pet,26,Cat & Kitten,10,Adult (1-6 years),11,1020396,Dry cat food,13.0,1020392.0
+1447,Pet,26,Cat & Kitten,10,Adult (1-6 years),11,1020396,Indoor cat food,14.0,1020393.0
+1448,Pet,26,Cat & Kitten,10,Adult (1-6 years),11,1020396,Luxury cat food,15.0,1020394.0
+1449,Pet,26,Cat & Kitten,10,Adult (1-6 years),11,1020396,Natural cat food,16.0,1020395.0
+1450,Pet,26,Cat & Kitten,10,Advanced nutrition cat food,11,1020397,,,
+1451,Pet,26,Cat & Kitten,10,Bigger packs,12,1020398,,,
+1452,Pet,26,Cat & Kitten,10,Cat care & accessories,13,1020399,,,
+1453,Pet,26,Cat & Kitten,10,Cat litter,14,1020400,,,
+1454,Pet,26,Cat & Kitten,10,Cat treats & milk,15,1020401,,,
+1455,Pet,26,Cat & Kitten,10,Kitten (0-1 years),16,1020404,,,
+1456,Pet,26,Cat & Kitten,10,Luxury cat food,17,1020405,,,
+1457,Pet,26,Cat & Kitten,10,New,18,1020406,,,
+1458,Pet,26,Cat & Kitten,10,Senior cat (7 years & up),20,1020411,Advanced nutrition cat food,10.0,1020408.0
+1459,Pet,26,Cat & Kitten,10,Senior cat (7 years & up),20,1020411,Cat pouches & cans,11.0,1020409.0
+1460,Pet,26,Cat & Kitten,10,Senior cat (7 years & up),20,1020411,Dry cat food,12.0,1020410.0
+1461,Pet,26,Cat & Kitten,10,Special offers,20,1020412,,,
+1462,Pet,26,Dog & Puppy,11,Adult dog (2 years & up),11,1020421,Advanced nutrition dog food,10.0,1020415.0
+1463,Pet,26,Dog & Puppy,11,Adult dog (2 years & up),11,1020421,"Dog food cans, trays & pouches",11.0,1020416.0
+1464,Pet,26,Dog & Puppy,11,Adult dog (2 years & up),11,1020421,Dog weight control,12.0,1020417.0
+1465,Pet,26,Dog & Puppy,11,Adult dog (2 years & up),11,1020421,Dry dog food,13.0,1020418.0
+1466,Pet,26,Dog & Puppy,11,Adult dog (2 years & up),11,1020421,Mixer,14.0,1020419.0
+1467,Pet,26,Dog & Puppy,11,Adult dog (2 years & up),11,1020421,Natural dog food,15.0,1020420.0
+1468,Pet,26,Dog & Puppy,11,Bigger packs,11,1020422,,,
+1469,Pet,26,Dog & Puppy,11,"Dog biscuits, treats & chews",13,1020427,Dog and Puppy Treats,10.0,1020423.0
+1470,Pet,26,Dog & Puppy,11,"Dog biscuits, treats & chews",13,1020427,Dog biscuits,11.0,1020424.0
+1471,Pet,26,Dog & Puppy,11,"Dog biscuits, treats & chews",13,1020427,Dog chews,12.0,1020425.0
+1472,Pet,26,Dog & Puppy,11,"Dog biscuits, treats & chews",13,1020427,Dog dental & joint chews,13.0,1020426.0
+1473,Pet,26,Dog & Puppy,11,Dog care & accessories,14,1020433,Dog accessories,10.0,1020428.0
+1474,Pet,26,Dog & Puppy,11,Dog care & accessories,14,1020433,Dog grooming,11.0,1020429.0
+1475,Pet,26,Dog & Puppy,11,Dog care & accessories,14,1020433,Dog health & well being,12.0,1020430.0
+1476,Pet,26,Dog & Puppy,11,Dog care & accessories,14,1020433,Dog toys,13.0,1020431.0
+1477,Pet,26,Dog & Puppy,11,Dog care & accessories,14,1020433,Poop disposal,14.0,1020432.0
+1478,Pet,26,Dog & Puppy,11,New,14,1020434,,,
+1479,Pet,26,Dog & Puppy,11,Puppy (0-2 years),15,1020436,,,
+1480,Pet,26,Dog & Puppy,11,Senior dog (7 years & up),17,1020441,Advanced nutrition dog food,10.0,1020437.0
+1481,Pet,26,Dog & Puppy,11,Senior dog (7 years & up),17,1020441,"Dog food cans, trays & pouches",11.0,1020438.0
+1482,Pet,26,Dog & Puppy,11,Senior dog (7 years & up),17,1020441,Dry dog food,12.0,1020439.0
+1483,Pet,26,Dog & Puppy,11,Senior dog (7 years & up),17,1020441,Natural dog food,13.0,1020440.0
+1484,Pet,26,Dog & Puppy,11,Small breed dog food,18,1020447,Advanced nutrition dog food,10.0,1020442.0
+1485,Pet,26,Dog & Puppy,11,Small breed dog food,18,1020447,"Biscuits, treats & chews",11.0,1020443.0
+1486,Pet,26,Dog & Puppy,11,Small breed dog food,18,1020447,"Cans, trays & pouches dog food",12.0,1020444.0
+1487,Pet,26,Dog & Puppy,11,Small breed dog food,18,1020447,Dry dog food,13.0,1020445.0
+1488,Pet,26,Dog & Puppy,11,Small breed dog food,18,1020447,Natural dog Food,14.0,1020446.0
+1489,Pet,26,Dog & Puppy,11,Special offers,18,1020448,,,
+1490,Pet,26,Other animals,13,Bird,10,1020451,,,
+1491,Pet,26,Other animals,13,Fish,11,1020452,,,
+1492,Pet,26,Other animals,13,Small animals,12,1020453,,,
+1493,Pet,26,Pet bigger packs,14,Cat food bigger packs,10,1020455,,,
+1494,Pet,26,Pet bigger packs,14,Cat litter bigger packs,11,1020456,,,
+1495,Pet,26,Pet bigger packs,14,Cat treats bigger packs,12,1020457,,,
+1496,Pet,26,Pet bigger packs,14,Dog food bigger packs,13,1020458,,,
+1497,Pet,26,Pet bigger packs,14,Dog treats bigger packs,14,1020459,,,
+1498,Toiletries & health,27,Bladder weakness,10,All bladder weakness,10,1020465,,,
+1499,Toiletries & health,27,Bladder weakness,10,Intimate care,11,1020466,,,
+1500,Toiletries & health,27,Bladder weakness,10,Liners,12,1020467,,,
+1501,Toiletries & health,27,Bladder weakness,10,Men's bladder weakness,13,1020468,,,
+1502,Toiletries & health,27,Bladder weakness,10,Pads,14,1020469,,,
+1503,Toiletries & health,27,Bladder weakness,10,Pants,15,1020470,,,
+1504,Toiletries & health,27,Deodorants & body sprays,11,Men's,10,1020472,,,
+1505,Toiletries & health,27,Deodorants & body sprays,11,Special offers,11,1020473,,,
+1506,Toiletries & health,27,Deodorants & body sprays,11,Women's,12,1020474,,,
+1507,Toiletries & health,27,Face & body skincare,12,Acne & problem skin,10,1020476,,,
+1508,Toiletries & health,27,Face & body skincare,12,All face & body skincare,11,1020477,,,
+1509,Toiletries & health,27,Face & body skincare,12,Body cream & moisturisers,13,1020482,All body cream & moisturisers,10.0,1020478.0
+1510,Toiletries & health,27,Face & body skincare,12,Body cream & moisturisers,13,1020482,Body butter,11.0,1020479.0
+1511,Toiletries & health,27,Face & body skincare,12,Body cream & moisturisers,13,1020482,Body cream,12.0,1020480.0
+1512,Toiletries & health,27,Face & body skincare,12,Body cream & moisturisers,13,1020482,Body oil,13.0,1020481.0
+1513,Toiletries & health,27,Face & body skincare,12,Cleansing,14,1020487,Cleansers,10.0,1020483.0
+1514,Toiletries & health,27,Face & body skincare,12,Cleansing,14,1020487,Micellar water,11.0,1020484.0
+1515,Toiletries & health,27,Face & body skincare,12,Cleansing,14,1020487,Toners,12.0,1020485.0
+1516,Toiletries & health,27,Face & body skincare,12,Cleansing,14,1020487,Wash & scrubs,13.0,1020486.0
+1517,Toiletries & health,27,Face & body skincare,12,Cotton wool & buds,14,1020488,,,
+1518,Toiletries & health,27,Face & body skincare,12,Face masks,15,1020489,,,
+1519,Toiletries & health,27,Face & body skincare,12,Face wipes,16,1020490,,,
+1520,Toiletries & health,27,Face & body skincare,12,Facial moisturisers,18,1020497,All facial moisturisers,10.0,1020491.0
+1521,Toiletries & health,27,Face & body skincare,12,Facial moisturisers,18,1020497,Day cream,11.0,1020492.0
+1522,Toiletries & health,27,Face & body skincare,12,Facial moisturisers,18,1020497,Eye cream,12.0,1020493.0
+1523,Toiletries & health,27,Face & body skincare,12,Facial moisturisers,18,1020497,Night cream,13.0,1020494.0
+1524,Toiletries & health,27,Face & body skincare,12,Facial moisturisers,18,1020497,Oil & serums,14.0,1020495.0
+1525,Toiletries & health,27,Face & body skincare,12,Facial moisturisers,18,1020497,Sensitive skin,15.0,1020496.0
+1526,Toiletries & health,27,Face & body skincare,12,Fake tan & gradual tan,18,1020498,,,
+1527,Toiletries & health,27,Face & body skincare,12,Footcare,19,1020499,,,
+1528,Toiletries & health,27,Face & body skincare,12,Hand & nail care,20,1020500,,,
+1529,Toiletries & health,27,Face & body skincare,12,Lip balm,21,1020501,,,
+1530,Toiletries & health,27,Face & body skincare,12,Mens skincare,22,1020502,,,
+1531,Toiletries & health,27,Face & body skincare,12,Special offers,23,1020521,,,
+1532,Toiletries & health,27,Family planning,13,Condoms & lubricants,10,1020523,,,
+1533,Toiletries & health,27,Family planning,13,Pregnancy & ovulation,11,1020524,,,
+1534,Toiletries & health,27,Family planning,13,Special offers,12,1020525,,,
+1535,Toiletries & health,27,Feminine care,14,All feminine care,10,1020527,,,
+1536,Toiletries & health,27,Feminine care,14,Intimate care,11,1020528,,,
+1537,Toiletries & health,27,Feminine care,14,Panty liners,12,1020529,,,
+1538,Toiletries & health,27,Feminine care,14,Reusable feminine care,13,1020530,,,
+1539,Toiletries & health,27,Feminine care,14,Sanitary towels,14,1020531,,,
+1540,Toiletries & health,27,Feminine care,14,Sensitive & naturals,15,1020532,,,
+1541,Toiletries & health,27,Feminine care,14,Special offers,16,1020533,,,
+1542,Toiletries & health,27,Feminine care,14,Tampons,17,1020534,,,
+1543,Toiletries & health,27,Haircare,15,Dry shampoo,10,1020539,,,
+1544,Toiletries & health,27,Haircare,15,Hair accessories,11,1020540,,,
+1545,Toiletries & health,27,Haircare,15,Hair dryers and appliances,13,1020544,All hair dryers & appliances,10.0,1020541.0
+1546,Toiletries & health,27,Haircare,15,Hair dryers and appliances,13,1020544,Hair straighteners,11.0,1020542.0
+1547,Toiletries & health,27,Haircare,15,Hair dryers and appliances,13,1020544,Hair stylers,12.0,1020543.0
+1548,Toiletries & health,27,Haircare,15,Hair dye,14,1020554,Blonde,10.0,1020545.0
+1549,Toiletries & health,27,Haircare,15,Hair dye,14,1020554,Brunette,11.0,1020546.0
+1550,Toiletries & health,27,Haircare,15,Hair dye,14,1020554,Colour remover,12.0,1020536.0
+1551,Toiletries & health,27,Haircare,15,Hair dye,14,1020554,Dark,13.0,1020547.0
+1552,Toiletries & health,27,Haircare,15,Hair dye,14,1020554,Highlights & lighteners,14.0,1020548.0
+1553,Toiletries & health,27,Haircare,15,Hair dye,14,1020554,Permanent,15.0,1020549.0
+1554,Toiletries & health,27,Haircare,15,Hair dye,14,1020554,Red,16.0,1020550.0
+1555,Toiletries & health,27,Haircare,15,Hair dye,14,1020554,Root touch up,17.0,1020551.0
+1556,Toiletries & health,27,Haircare,15,Hair dye,14,1020554,Semi permanent,18.0,1020552.0
+1557,Toiletries & health,27,Haircare,15,Hair dye,14,1020554,Temporary,19.0,1020553.0
+1558,Toiletries & health,27,Haircare,15,Kids,15,1020558,2in1,10.0,1020555.0
+1559,Toiletries & health,27,Haircare,15,Kids,15,1020558,Conditioner,11.0,1020556.0
+1560,Toiletries & health,27,Haircare,15,Kids,15,1020558,Shampoo,12.0,1020557.0
+1561,Toiletries & health,27,Haircare,15,"Kinks, curls and coils",15,1020559,,,
+1562,Toiletries & health,27,Haircare,15,Shampoo & conditioners,17,1020568,2in1,10.0,1020560.0
+1563,Toiletries & health,27,Haircare,15,Shampoo & conditioners,17,1020568,All kids shampoo & conditioners,11.0,1020561.0
+1564,Toiletries & health,27,Haircare,15,Shampoo & conditioners,17,1020568,All shampoo & conditioners,12.0,1020562.0
+1565,Toiletries & health,27,Haircare,15,Shampoo & conditioners,17,1020568,Conditioner,13.0,1020563.0
+1566,Toiletries & health,27,Haircare,15,Shampoo & conditioners,17,1020568,Intensive treatments and serums,14.0,1020564.0
+1567,Toiletries & health,27,Haircare,15,Shampoo & conditioners,17,1020568,Kids,15.0,1020565.0
+1568,Toiletries & health,27,Haircare,15,Shampoo & conditioners,17,1020568,Medicated,16.0,1020566.0
+1569,Toiletries & health,27,Haircare,15,Shampoo & conditioners,17,1020568,Shampoo,17.0,1020567.0
+1570,Toiletries & health,27,Haircare,15,Special offers,17,1020569,,,
+1571,Toiletries & health,27,Haircare,15,Styling & hairspray,19,1020580,All styling & hairspray,10.0,1020570.0
+1572,Toiletries & health,27,Haircare,15,Styling & hairspray,19,1020580,Dry shampoo,11.0,1020571.0
+1573,Toiletries & health,27,Haircare,15,Styling & hairspray,19,1020580,Gel and gel sprays,12.0,1020572.0
+1574,Toiletries & health,27,Haircare,15,Styling & hairspray,19,1020580,Hair mousse,13.0,1020573.0
+1575,Toiletries & health,27,Haircare,15,Styling & hairspray,19,1020580,Hairspray,14.0,1020574.0
+1576,Toiletries & health,27,Haircare,15,Styling & hairspray,19,1020580,Heat protection,15.0,1020575.0
+1577,Toiletries & health,27,Haircare,15,Styling & hairspray,19,1020580,Serums,16.0,1020576.0
+1578,Toiletries & health,27,Haircare,15,Styling & hairspray,19,1020580,Styling & hairspray,17.0,1020577.0
+1579,Toiletries & health,27,Haircare,15,Styling & hairspray,19,1020580,Volume,18.0,1020578.0
+1580,Toiletries & health,27,Haircare,15,Styling & hairspray,19,1020580,"Wax, putty and cream",19.0,1020579.0
+1581,Toiletries & health,27,Medicines & healthcare,16,Baby & children's healthcare,11,1020589,All baby & children's healthcare,10.0,1020582.0
+1582,Toiletries & health,27,Medicines & healthcare,16,Baby & children's healthcare,11,1020589,Hayfever & allergy relief,11.0,1020583.0
+1583,Toiletries & health,27,Medicines & healthcare,16,Baby & children's healthcare,11,1020589,Headlice,12.0,1020584.0
+1584,Toiletries & health,27,Medicines & healthcare,16,Baby & children's healthcare,11,1020589,Medicated skincare,13.0,1020585.0
+1585,Toiletries & health,27,Medicines & healthcare,16,Baby & children's healthcare,11,1020589,"Pain, fever & cough relief",14.0,1020586.0
+1586,Toiletries & health,27,Medicines & healthcare,16,Baby & children's healthcare,11,1020589,Verrucas,15.0,1020587.0
+1587,Toiletries & health,27,Medicines & healthcare,16,Baby & children's healthcare,11,1020589,Vitamins,16.0,1020588.0
+1588,Toiletries & health,27,Medicines & healthcare,16,"Cough, cold & flu",12,1020595,"All cough, cold & flu",10.0,1020590.0
+1589,Toiletries & health,27,Medicines & healthcare,16,"Cough, cold & flu",12,1020595,Cold & flu,11.0,1020591.0
+1590,Toiletries & health,27,Medicines & healthcare,16,"Cough, cold & flu",12,1020595,Cough,12.0,1020592.0
+1591,Toiletries & health,27,Medicines & healthcare,16,"Cough, cold & flu",12,1020595,Decongestant & sinus relief,13.0,1020593.0
+1592,Toiletries & health,27,Medicines & healthcare,16,"Cough, cold & flu",12,1020595,Sore throat,14.0,1020594.0
+1593,Toiletries & health,27,Medicines & healthcare,16,"Ear, mouth & lip care",13,1020600,"All ear, mouth & lip care",10.0,1020596.0
+1594,Toiletries & health,27,Medicines & healthcare,16,"Ear, mouth & lip care",13,1020600,Ear treatments,11.0,1020597.0
+1595,Toiletries & health,27,Medicines & healthcare,16,"Ear, mouth & lip care",13,1020600,Lip care,12.0,1020598.0
+1596,Toiletries & health,27,Medicines & healthcare,16,"Ear, mouth & lip care",13,1020600,Mouth,13.0,1020599.0
+1597,Toiletries & health,27,Medicines & healthcare,16,Eye & contact lens care,14,1020604,All eye & contact lens care,10.0,1020601.0
+1598,Toiletries & health,27,Medicines & healthcare,16,Eye & contact lens care,14,1020604,Contact lens care,11.0,1020602.0
+1599,Toiletries & health,27,Medicines & healthcare,16,Eye & contact lens care,14,1020604,Eye drops & washes,12.0,1020603.0
+1600,Toiletries & health,27,Medicines & healthcare,16,First aid,15,1020610,All first aid,10.0,1020605.0
+1601,Toiletries & health,27,Medicines & healthcare,16,First aid,15,1020610,Antiseptic treatments,11.0,1020606.0
+1602,Toiletries & health,27,Medicines & healthcare,16,First aid,15,1020610,Bite & sting,12.0,1020607.0
+1603,Toiletries & health,27,Medicines & healthcare,16,First aid,15,1020610,Burns,13.0,1020608.0
+1604,Toiletries & health,27,Medicines & healthcare,16,First aid,15,1020610,Plasters & bandages,14.0,1020609.0
+1605,Toiletries & health,27,Medicines & healthcare,16,Footcare,16,1020621,All footcare,10.0,1020611.0
+1606,Toiletries & health,27,Medicines & healthcare,16,Footcare,16,1020621,Athlete's foot,11.0,1020612.0
+1607,Toiletries & health,27,Medicines & healthcare,16,Footcare,16,1020621,Compression tights & hosier,12.0,1020613.0
+1608,Toiletries & health,27,Medicines & healthcare,16,Footcare,16,1020621,"Corn, blisters & bunions",13.0,1020614.0
+1609,Toiletries & health,27,Medicines & healthcare,16,Footcare,16,1020621,Fungal nail,14.0,1020615.0
+1610,Toiletries & health,27,Medicines & healthcare,16,Footcare,16,1020621,"Hard, dry & cracked skin",15.0,1020616.0
+1611,Toiletries & health,27,Medicines & healthcare,16,Footcare,16,1020621,Insoles,16.0,1020617.0
+1612,Toiletries & health,27,Medicines & healthcare,16,Footcare,16,1020621,Odour control,17.0,1020618.0
+1613,Toiletries & health,27,Medicines & healthcare,16,Footcare,16,1020621,Pedi & nail care,18.0,1020619.0
+1614,Toiletries & health,27,Medicines & healthcare,16,Footcare,16,1020621,Verrucas,19.0,1020620.0
+1615,Toiletries & health,27,Medicines & healthcare,16,Hayfever & allergy relief,16,1020622,,,
+1616,Toiletries & health,27,Medicines & healthcare,16,Medicated skincare,17,1020623,,,
+1617,Toiletries & health,27,Medicines & healthcare,16,Pain relief,19,1020629,All pain relief,10.0,1020624.0
+1618,Toiletries & health,27,Medicines & healthcare,16,Pain relief,19,1020629,Children's fever & pain relief,11.0,1020625.0
+1619,Toiletries & health,27,Medicines & healthcare,16,Pain relief,19,1020629,Muscle and joint pain,12.0,1020626.0
+1620,Toiletries & health,27,Medicines & healthcare,16,Pain relief,19,1020629,Soluble,13.0,1020627.0
+1621,Toiletries & health,27,Medicines & healthcare,16,Pain relief,19,1020629,Tablet & capsule,14.0,1020628.0
+1622,Toiletries & health,27,Medicines & healthcare,16,Sexual wellbeing,20,1020635,All sexual wellbeing,10.0,1020630.0
+1623,Toiletries & health,27,Medicines & healthcare,16,Sexual wellbeing,20,1020635,Condoms,11.0,1020631.0
+1624,Toiletries & health,27,Medicines & healthcare,16,Sexual wellbeing,20,1020635,Sexual enhancement & toys,12.0,1020634.0
+1625,Toiletries & health,27,Medicines & healthcare,16,Sleeping & calming,20,1020636,,,
+1626,Toiletries & health,27,Medicines & healthcare,16,Smoking control,22,1020647,All smoking control,10.0,1020637.0
+1627,Toiletries & health,27,Medicines & healthcare,16,Smoking control,22,1020647,Electronic cigarettes,11.0,1020638.0
+1628,Toiletries & health,27,Medicines & healthcare,16,Smoking control,22,1020647,Gum,12.0,1020639.0
+1629,Toiletries & health,27,Medicines & healthcare,16,Smoking control,22,1020647,Inhaler & spray,13.0,1020640.0
+1630,Toiletries & health,27,Medicines & healthcare,16,Smoking control,22,1020647,Lozenges,14.0,1020641.0
+1631,Toiletries & health,27,Medicines & healthcare,16,Smoking control,22,1020647,Patches,15.0,1020646.0
+1632,Toiletries & health,27,Medicines & healthcare,16,Special offers,22,1020648,,,
+1633,Toiletries & health,27,Medicines & healthcare,16,Stomach & bowel,24,1020655,All stomach & bowel,10.0,1020649.0
+1634,Toiletries & health,27,Medicines & healthcare,16,Stomach & bowel,24,1020655,Diarrhoea relief,11.0,1020650.0
+1635,Toiletries & health,27,Medicines & healthcare,16,Stomach & bowel,24,1020655,Haemorrhoids,12.0,1020651.0
+1636,Toiletries & health,27,Medicines & healthcare,16,Stomach & bowel,24,1020655,Heartburn & indigestion,13.0,1020652.0
+1637,Toiletries & health,27,Medicines & healthcare,16,Stomach & bowel,24,1020655,Irritable bowel syndrome (IBS),14.0,1020653.0
+1638,Toiletries & health,27,Medicines & healthcare,16,Stomach & bowel,24,1020655,Laxatives,15.0,1020654.0
+1639,Toiletries & health,27,Medicines & healthcare,16,Women's health & pregnancy,25,1020663,All women's health & pregnancy,10.0,1020657.0
+1640,Toiletries & health,27,Medicines & healthcare,16,Women's health & pregnancy,25,1020663,Conception & pregnancy vitamins,11.0,1020658.0
+1641,Toiletries & health,27,Medicines & healthcare,16,Women's health & pregnancy,25,1020663,Intimate treatments,12.0,1020659.0
+1642,Toiletries & health,27,Medicines & healthcare,16,Women's health & pregnancy,25,1020663,Menopause,13.0,1020660.0
+1643,Toiletries & health,27,Medicines & healthcare,16,Women's health & pregnancy,25,1020663,Pregnancy tests & ovulation,14.0,1020661.0
+1644,Toiletries & health,27,Medicines & healthcare,16,Women's health & pregnancy,25,1020663,Vitamins,15.0,1020662.0
+1645,Toiletries & health,27,Men's toiletries,17,Aftershave & gifts,11,1020667,Aftershave,10.0,1020665.0
+1646,Toiletries & health,27,Men's toiletries,17,Aftershave & gifts,11,1020667,All aftershave & gifts,11.0,1020666.0
+1647,Toiletries & health,27,Men's toiletries,17,Bladder weakness,11,1020668,,,
+1648,Toiletries & health,27,Men's toiletries,17,Deodorants & body sprays,13,1020674,All deodorants & body sprays,10.0,1020669.0
+1649,Toiletries & health,27,Men's toiletries,17,Deodorants & body sprays,13,1020674,Body spray,11.0,1020670.0
+1650,Toiletries & health,27,Men's toiletries,17,Deodorants & body sprays,13,1020674,Deodorant spray,12.0,1020671.0
+1651,Toiletries & health,27,Men's toiletries,17,Deodorants & body sprays,13,1020674,Roll on deodorant,13.0,1020672.0
+1652,Toiletries & health,27,Men's toiletries,17,Deodorants & body sprays,13,1020674,Stick and cream deodorant,14.0,1020673.0
+1653,Toiletries & health,27,Men's toiletries,17,Hair,14,1020680,All hair,10.0,1020675.0
+1654,Toiletries & health,27,Men's toiletries,17,Hair,14,1020680,Colourants,11.0,1020676.0
+1655,Toiletries & health,27,Men's toiletries,17,Hair,14,1020680,Hair growth,12.0,1020677.0
+1656,Toiletries & health,27,Men's toiletries,17,Hair,14,1020680,Shampoo & conditioner,13.0,1020678.0
+1657,Toiletries & health,27,Men's toiletries,17,Hair,14,1020680,Styling,14.0,1020679.0
+1658,Toiletries & health,27,Men's toiletries,17,Shaving,15,1020687,All shaving,10.0,1020681.0
+1659,Toiletries & health,27,Men's toiletries,17,Shaving,15,1020687,"Blades, razors & disposables",11.0,1020682.0
+1660,Toiletries & health,27,Men's toiletries,17,Shaving,15,1020687,Disposables,12.0,1020683.0
+1661,Toiletries & health,27,Men's toiletries,17,Shaving,15,1020687,Electric razors,13.0,1020684.0
+1662,Toiletries & health,27,Men's toiletries,17,Shaving,15,1020687,Razors,14.0,1020685.0
+1663,Toiletries & health,27,Men's toiletries,17,Shaving,15,1020687,Shaving gel and foam,15.0,1020686.0
+1664,Toiletries & health,27,Men's toiletries,17,Shower,16,1020691,All shower,10.0,1020688.0
+1665,Toiletries & health,27,Men's toiletries,17,Shower,16,1020691,Body,11.0,1020689.0
+1666,Toiletries & health,27,Men's toiletries,17,Shower,16,1020691,Hair & body,12.0,1020690.0
+1667,Toiletries & health,27,Men's toiletries,17,Skincare,17,1020697,All skincare,10.0,1020692.0
+1668,Toiletries & health,27,Men's toiletries,17,Skincare,17,1020697,Beardcare,11.0,1020693.0
+1669,Toiletries & health,27,Men's toiletries,17,Skincare,17,1020697,Moisturiser,12.0,1020694.0
+1670,Toiletries & health,27,Men's toiletries,17,Skincare,17,1020697,Post shave balm,13.0,1020695.0
+1671,Toiletries & health,27,Men's toiletries,17,Skincare,17,1020697,Washes & scrubs,14.0,1020696.0
+1672,Toiletries & health,27,Men's toiletries,17,Special offers,17,1020698,,,
+1673,Toiletries & health,27,Shaving & hair removal,19,Electric shavers,11,1020707,All electric shavers,10.0,1020701.0
+1674,Toiletries & health,27,Shaving & hair removal,19,Electric shavers,11,1020707,All electric shavers & trimmers,11.0,1020702.0
+1675,Toiletries & health,27,Shaving & hair removal,19,Electric shavers,11,1020707,Beard trimmers,12.0,1020703.0
+1676,Toiletries & health,27,Shaving & hair removal,19,Electric shavers,11,1020707,Female shavers,13.0,1020704.0
+1677,Toiletries & health,27,Shaving & hair removal,19,Electric shavers,11,1020707,Hair clippers,14.0,1020705.0
+1678,Toiletries & health,27,Shaving & hair removal,19,Electric shavers,11,1020707,Male shavers,15.0,1020706.0
+1679,Toiletries & health,27,Shaving & hair removal,19,Hair removal creams & waxes,12,1020713,All hair removal creams & waxes,10.0,1020709.0
+1680,Toiletries & health,27,Shaving & hair removal,19,Hair removal creams & waxes,12,1020713,Bleach,11.0,1020710.0
+1681,Toiletries & health,27,Shaving & hair removal,19,Hair removal creams & waxes,12,1020713,Hair removal cream,12.0,1020711.0
+1682,Toiletries & health,27,Shaving & hair removal,19,Hair removal creams & waxes,12,1020713,Wax,13.0,1020712.0
+1683,Toiletries & health,27,Shaving & hair removal,19,Men's razors & blades,13,1020720,All men's razors & blades,10.0,1020714.0
+1684,Toiletries & health,27,Shaving & hair removal,19,Men's razors & blades,13,1020720,Beardcare,11.0,1020715.0
+1685,Toiletries & health,27,Shaving & hair removal,19,Men's razors & blades,13,1020720,Blades,12.0,1020716.0
+1686,Toiletries & health,27,Shaving & hair removal,19,Men's razors & blades,13,1020720,Disposables,13.0,1020717.0
+1687,Toiletries & health,27,Shaving & hair removal,19,Men's razors & blades,13,1020720,Razor handles,14.0,1020718.0
+1688,Toiletries & health,27,Shaving & hair removal,19,Men's razors & blades,13,1020720,Trimmers,15.0,1020719.0
+1689,Toiletries & health,27,Shaving & hair removal,19,Postshave,13,1040865,,,
+1690,Toiletries & health,27,Shaving & hair removal,19,"Shaving foams, gels & oils",15,1020726,"All Shaving foams, gels & oils",10.0,1020721.0
+1691,Toiletries & health,27,Shaving & hair removal,19,"Shaving foams, gels & oils",15,1020726,Shaving cream,11.0,1020722.0
+1692,Toiletries & health,27,Shaving & hair removal,19,"Shaving foams, gels & oils",15,1020726,Shaving foam,12.0,1020723.0
+1693,Toiletries & health,27,Shaving & hair removal,19,"Shaving foams, gels & oils",15,1020726,Shaving gel,13.0,1020724.0
+1694,Toiletries & health,27,Shaving & hair removal,19,"Shaving foams, gels & oils",15,1020726,Shaving oil,14.0,1020725.0
+1695,Toiletries & health,27,Shaving & hair removal,19,Special offers,15,1020727,,,
+1696,Toiletries & health,27,Shaving & hair removal,19,Women's shaving,17,1020731,All women's shaving,10.0,1020728.0
+1697,Toiletries & health,27,Shaving & hair removal,19,Women's shaving,17,1020731,"Blades, razor handles & disposables",11.0,1020729.0
+1698,Toiletries & health,27,Shaving & hair removal,19,Women's shaving,17,1020731,Shaving gel,12.0,1020730.0
+1699,Toiletries & health,27,"Soap, shower & bath",20,Accessories,10,1020733,,,
+1700,Toiletries & health,27,"Soap, shower & bath",20,Bath,11,1020734,,,
+1701,Toiletries & health,27,"Soap, shower & bath",20,Kids,12,1020735,,,
+1702,Toiletries & health,27,"Soap, shower & bath",20,Sanitiser,13,1020737,,,
+1703,Toiletries & health,27,"Soap, shower & bath",20,Shower,14,1020738,,,
+1704,Toiletries & health,27,"Soap, shower & bath",20,Soap & handwash,15,1020739,,,
+1705,Toiletries & health,27,"Soap, shower & bath",20,Special offers,16,1020740,,,
+1706,Toiletries & health,27,"Soap, shower & bath",20,Talc,17,1020741,,,
+1707,Toiletries & health,27,Sports nutrition & diet,22,All sports nutrition & diet,10,1020744,,,
+1708,Toiletries & health,27,Sports nutrition & diet,22,Diet support tablets,11,1020745,,,
+1709,Toiletries & health,27,Sports nutrition & diet,22,Energy & hydration,12,1020746,,,
+1710,Toiletries & health,27,Sports nutrition & diet,22,Meal replacement,13,1020747,,,
+1711,Toiletries & health,27,Sports nutrition & diet,22,New,14,1020748,,,
+1712,Toiletries & health,27,Sports nutrition & diet,22,Protein bars & drinks,15,1020749,,,
+1713,Toiletries & health,27,Sports nutrition & diet,22,Protein powder & shakers,16,1020750,,,
+1714,Toiletries & health,27,Sports nutrition & diet,22,Special offers,17,1020751,,,
+1715,Toiletries & health,27,Suncare & travel,23,Aftersun,10,1020753,,,
+1716,Toiletries & health,27,Suncare & travel,23,Baby & kids,11,1020754,,,
+1717,Toiletries & health,27,Suncare & travel,23,Fake tan,12,1020755,,,
+1718,Toiletries & health,27,Suncare & travel,23,Insect repellent & travel health,14,1020758,Insect repellents & allergies,10.0,1020756.0
+1719,Toiletries & health,27,Suncare & travel,23,Insect repellent & travel health,14,1020758,Travel health,11.0,1020757.0
+1720,Toiletries & health,27,Suncare & travel,23,Special offers,14,1020759,,,
+1721,Toiletries & health,27,Suncare & travel,23,Sun cream,15,1020760,,,
+1722,Toiletries & health,27,Suncare & travel,23,Swimming nappies,16,1020761,,,
+1723,Toiletries & health,27,Suncare & travel,23,Travel size toiletries,17,1020762,,,
+1724,Toiletries & health,27,Toothpaste & mouthwash,25,Breath spray,10,1020765,,,
+1725,Toiletries & health,27,Toothpaste & mouthwash,25,Dental accessories & floss,12,1020770,All dental accessories & floss,10.0,1020767.0
+1726,Toiletries & health,27,Toothpaste & mouthwash,25,Dental accessories & floss,12,1020770,Dental floss & tape,11.0,1020768.0
+1727,Toiletries & health,27,Toothpaste & mouthwash,25,Dental accessories & floss,12,1020770,Interdental brushes,12.0,1020769.0
+1728,Toiletries & health,27,Toothpaste & mouthwash,25,Denture care,12,1020771,,,
+1729,Toiletries & health,27,Toothpaste & mouthwash,25,Electric & battery toothbrushes,14,1020777,All electric & battery toothbrushes,10.0,1020772.0
+1730,Toiletries & health,27,Toothpaste & mouthwash,25,Electric & battery toothbrushes,14,1020777,Battery toothbrushes,11.0,1020773.0
+1731,Toiletries & health,27,Toothpaste & mouthwash,25,Electric & battery toothbrushes,14,1020777,Electric toothbrush heads,12.0,1020774.0
+1732,Toiletries & health,27,Toothpaste & mouthwash,25,Electric & battery toothbrushes,14,1020777,Electric toothbrushes,13.0,1020775.0
+1733,Toiletries & health,27,Toothpaste & mouthwash,25,Electric & battery toothbrushes,14,1020777,Kids battery & electric toothbrushes,14.0,1020776.0
+1734,Toiletries & health,27,Toothpaste & mouthwash,25,Gum care,14,1020778,,,
+1735,Toiletries & health,27,Toothpaste & mouthwash,25,Kids dental care,16,1020786,Age 0-2,10.0,1020779.0
+1736,Toiletries & health,27,Toothpaste & mouthwash,25,Kids dental care,16,1020786,Age 3-5,11.0,1020780.0
+1737,Toiletries & health,27,Toothpaste & mouthwash,25,Kids dental care,16,1020786,Age 6+,12.0,1020781.0
+1738,Toiletries & health,27,Toothpaste & mouthwash,25,Kids dental care,16,1020786,All kids dental care,13.0,1020782.0
+1739,Toiletries & health,27,Toothpaste & mouthwash,25,Kids dental care,16,1020786,Kids battery & electric toothbrushes,14.0,1020783.0
+1740,Toiletries & health,27,Toothpaste & mouthwash,25,Kids dental care,16,1020786,Kids toothbrushes,15.0,1020784.0
+1741,Toiletries & health,27,Toothpaste & mouthwash,25,Kids dental care,16,1020786,Kids toothpaste,16.0,1020785.0
+1742,Toiletries & health,27,Toothpaste & mouthwash,25,Mouthwash,17,1020797,Alcohol free mouthwash,10.0,1020787.0
+1743,Toiletries & health,27,Toothpaste & mouthwash,25,Mouthwash,17,1020797,All mouthwash,11.0,1020788.0
+1744,Toiletries & health,27,Toothpaste & mouthwash,25,Mouthwash,17,1020797,Gum health mouthwash,12.0,1020789.0
+1745,Toiletries & health,27,Toothpaste & mouthwash,25,Mouthwash,17,1020797,Kids mouthwash,13.0,1020790.0
+1746,Toiletries & health,27,Toothpaste & mouthwash,25,Mouthwash,17,1020797,Multi benefit mouthwash,14.0,1020792.0
+1747,Toiletries & health,27,Toothpaste & mouthwash,25,Mouthwash,17,1020797,Regular mouthwash,15.0,1020793.0
+1748,Toiletries & health,27,Toothpaste & mouthwash,25,Mouthwash,17,1020797,Sensitive mouthwash,16.0,1020794.0
+1749,Toiletries & health,27,Toothpaste & mouthwash,25,Mouthwash,17,1020797,Specialist mouthwash,17.0,1020795.0
+1750,Toiletries & health,27,Toothpaste & mouthwash,25,Mouthwash,17,1020797,Whitening mouthwash,18.0,1020796.0
+1751,Toiletries & health,27,Toothpaste & mouthwash,25,Sensitive,17,1020798,,,
+1752,Toiletries & health,27,Toothpaste & mouthwash,25,Special offers,18,1020800,,,
+1753,Toiletries & health,27,Toothpaste & mouthwash,25,Toothbrushes,19,1020801,,,
+1754,Toiletries & health,27,Toothpaste & mouthwash,25,Toothpaste,21,1020810,All toothpaste,10.0,1020802.0
+1755,Toiletries & health,27,Toothpaste & mouthwash,25,Toothpaste,21,1020810,Kids toothpaste,11.0,1020803.0
+1756,Toiletries & health,27,Toothpaste & mouthwash,25,Toothpaste,21,1020810,Multi benefit toothpaste,12.0,1020804.0
+1757,Toiletries & health,27,Toothpaste & mouthwash,25,Toothpaste,21,1020810,Pump toothpaste,13.0,1020805.0
+1758,Toiletries & health,27,Toothpaste & mouthwash,25,Toothpaste,21,1020810,Regular toothpaste,14.0,1020806.0
+1759,Toiletries & health,27,Toothpaste & mouthwash,25,Toothpaste,21,1020810,Sensitive toothpaste,15.0,1020807.0
+1760,Toiletries & health,27,Toothpaste & mouthwash,25,Toothpaste,21,1020810,Specialist & gum health,16.0,1020808.0
+1761,Toiletries & health,27,Toothpaste & mouthwash,25,Toothpaste,21,1020810,Whitening toothpaste,17.0,1020809.0
+1762,Toiletries & health,27,Toothpaste & mouthwash,25,Whitening,21,1020811,,,
+1763,Toiletries & health,27,Vitamins,26,"All Vitamins, Minerals & Supplements",10,1020813,,,
+1764,Toiletries & health,27,Vitamins,26,Baby & children's healthcare,11,1020814,,,
+1765,Toiletries & health,27,Vitamins,26,Bone & joint care,13,1020817,All bone & joint care,10.0,1020815.0
+1766,Toiletries & health,27,Vitamins,26,Bone & joint care,13,1020817,Glucosamine & joint care,11.0,1020816.0
+1767,Toiletries & health,27,Vitamins,26,Energy & vitality,13,1020818,,,
+1768,Toiletries & health,27,Vitamins,26,Immune system,14,1020819,,,
+1769,Toiletries & health,27,Vitamins,26,Men's health,15,1020820,,,
+1770,Toiletries & health,27,Vitamins,26,Multi vitamins,16,1020821,,,
+1771,Toiletries & health,27,Vitamins,26,Pregnancy & conception,17,1020822,,,
+1772,Toiletries & health,27,Vitamins,26,Special offers,18,1020823,,,
+1773,Toiletries & health,27,Vitamins,26,Vitamin bigger packs,19,1020824,,,
+1774,Toiletries & health,27,Vitamins,26,Women's health,20,1020825,,,
+1775,Valentines Day,28,Date Night,13,Desserts,10,1044128,,,
+1776,Valentines Day,28,Date Night,13,Drinks,11,1044129,,,
+1777,Valentines Day,28,Date Night,13,Fakeaways,12,1044133,,,
+1778,Valentines Day,28,Date Night,13,Mains,13,1044127,,,
+1779,Valentines Day,28,Date Night,13,Meal deals,14,1044131,,,
+1780,Valentines Day,28,Date Night,13,Snacks,15,1044130,,,
+1781,Valentines Day,28,Date Night,13,Starters & sides,16,1044126,,,
+1782,Valentines Day,28,Gifts,15,Beauty & pampering,10,1044122,,,
+1783,Valentines Day,28,Gifts,15,Food & drink,11,1044124,,,
+1784,Valentines Day,28,Gifts,15,Grooming,12,1044123,,,
+1785,Valentines Day,28,Gifts,15,"Novelty, homeware & Pet",13,1044121,,,
+1786,Valentines Day,28,Gifts,15,Sexual health & wellbeing,14,1044125,,,
